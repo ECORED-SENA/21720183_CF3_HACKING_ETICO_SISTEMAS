@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1156.055" height="691.587" viewBox="0 0 1156.055 691.587">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_39541" data-name="Rectángulo 39541" width="1156.055" height="691.587" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_143595" data-name="Grupo 143595" transform="translate(6226 1542.587)">
+    <g id="Grupo_143575" data-name="Grupo 143575" transform="translate(-6226 -1542.587)">
+      <line id="Línea_279" data-name="Línea 279" x1="74.921" transform="translate(163.881 622.46)" fill="none" stroke="#5bb8b2" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <path id="Trazado_190057" data-name="Trazado 190057" d="M170.508,614.281l1.364,1.465-7.223,6.713,7.223,6.715-1.364,1.464-8.8-8.179Z" fill="#5bb8b2"/>
+      <line id="Línea_280" data-name="Línea 280" y1="69.804" x2="27.215" transform="translate(598.068 498.298)" fill="none" stroke="#5bb8b2" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <path id="Trazado_190058" data-name="Trazado 190058" d="M630.5,507.444l-1.86.739-3.631-9.169-8.88,4.291-.869-1.8,10.816-5.224Z" fill="#5bb8b2"/>
+      <line id="Línea_281" data-name="Línea 281" y2="131.585" transform="translate(340.26 457.425)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <line id="Línea_282" data-name="Línea 282" x2="111.648" y2="94.701" transform="translate(724.714 490.322)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <line id="Línea_283" data-name="Línea 283" x1="96.695" y2="240.242" transform="translate(870.033 337.47)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <line id="Línea_284" data-name="Línea 284" x1="119.623" y2="102.676" transform="translate(880.998 475.037)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <line id="Línea_285" data-name="Línea 285" y2="131.585" transform="translate(698.131 457.425)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+      <g id="Grupo_143554" data-name="Grupo 143554">
+        <g id="Grupo_143553" data-name="Grupo 143553" clip-path="url(#clip-path)">
+          <path id="Trazado_190059" data-name="Trazado 190059" d="M178.548,201.566,340.925,459.419H502.969a17.39,17.39,0,0,1,17.39,17.39v111.2" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12 12"/>
+          <line id="Línea_286" data-name="Línea 286" x1="6" transform="translate(587.373 45.392)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_190060" data-name="Trazado 190060" d="M575.247,45.392H123.654A23.659,23.659,0,0,0,100,69.051v38.71" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12.125 12.125"/>
+          <line id="Línea_287" data-name="Línea 287" y2="6" transform="translate(99.996 113.824)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2"/>
+          <line id="Línea_288" data-name="Línea 288" x2="6" transform="translate(558.549 45.392)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_190061" data-name="Trazado 190061" d="M576.63,45.392h446.985A28.311,28.311,0,0,1,1051.926,73.7v34.08" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="12.081 12.081"/>
+          <line id="Línea_289" data-name="Línea 289" y2="6" transform="translate(1051.926 113.824)" fill="none" stroke="#7142c1" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Trazado_190062" data-name="Trazado 190062" d="M302.82,391.254h76.206l38.1,66-38.1,66H302.82l-38.1-66Z" fill="#ffb725"/>
+          <path id="Trazado_190063" data-name="Trazado 190063" d="M305.033,395.087h71.779L412.7,457.25l-35.89,62.162H305.033l-35.89-62.162Z" fill="#fff"/>
+          <path id="Trazado_190064" data-name="Trazado 190064" d="M480.592,391.254H556.8l38.1,66-38.1,66H480.592l-38.1-66Z" fill="#ffb725"/>
+          <path id="Trazado_190065" data-name="Trazado 190065" d="M482.806,395.087h71.779l35.89,62.163-35.89,62.162H482.806l-35.89-62.162Z" fill="#fff"/>
+          <path id="Trazado_190066" data-name="Trazado 190066" d="M656.039,391.254h76.206l38.1,66-38.1,66H656.039l-38.1-66Z" fill="#ffb725"/>
+          <path id="Trazado_190067" data-name="Trazado 190067" d="M658.252,395.087h71.779l35.89,62.163-35.89,62.162H658.252l-35.89-62.162Z" fill="#fff"/>
+          <path id="Trazado_190068" data-name="Trazado 190068" d="M209.1,230.807H14.806a8.184,8.184,0,0,1-8.16-8.16V120a8.184,8.184,0,0,1,8.16-8.16H209.1a8.184,8.184,0,0,1,8.16,8.16V222.647a8.184,8.184,0,0,1-8.16,8.16" fill="#7142c1"/>
+          <path id="Trazado_190069" data-name="Trazado 190069" d="M209.265,225.743H19.564a8.184,8.184,0,0,1-8.16-8.16V119.954a8.184,8.184,0,0,1,8.16-8.16h189.7a8.184,8.184,0,0,1,8.16,8.16v97.629a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+          <rect id="Rectángulo_39539" data-name="Rectángulo 39539" width="206.661" height="45.02" transform="translate(497.113 27.596)" fill="#7142c1"/>
+          <rect id="Rectángulo_39540" data-name="Rectángulo 39540" width="193.869" height="35.081" transform="translate(503.956 32.566)" fill="#fff"/>
+          <path id="Trazado_190070" data-name="Trazado 190070" d="M461.28,13.939h41.181L523.051,49.6l-20.59,35.663H461.28L440.69,49.6Z" fill="#7142c1"/>
+          <path id="Trazado_190071" data-name="Trazado 190071" d="M463.338,17.5H500.4l18.532,32.1L500.4,81.7H463.338L444.806,49.6Z" fill="#fff"/>
+          <path id="Trazado_190072" data-name="Trazado 190072" d="M481.517,31.1a26.117,26.117,0,0,1-18.106,3.621s-3.943,26.043,17.07,33.236a3.222,3.222,0,0,0,2.072,0c21.546-5.39,17.07-33.236,17.07-33.236A26.119,26.119,0,0,1,481.517,31.1" fill="#7142c1"/>
+          <path id="Trazado_190073" data-name="Trazado 190073" d="M481.525,34.144A21.817,21.817,0,0,1,466.4,37.169s-3.295,21.756,14.26,27.765a2.69,2.69,0,0,0,1.73,0c18-4.5,14.26-27.765,14.26-27.765a21.817,21.817,0,0,1-15.125-3.025" fill="#fff"/>
+          <path id="Trazado_190074" data-name="Trazado 190074" d="M481.529,35.573A19.8,19.8,0,0,1,467.8,38.318s-2.99,19.744,12.941,25.2a2.444,2.444,0,0,0,1.57,0c16.335-4.087,12.941-25.2,12.941-25.2a19.8,19.8,0,0,1-13.726-2.745" fill="#5c379b"/>
+          <path id="Trazado_190075" data-name="Trazado 190075" d="M481.717,62.433a3.444,3.444,0,0,1-.691-.1C465.978,58.72,468.915,39.29,468.915,39.29a18.2,18.2,0,0,0,12.591-2.642Z" fill="#7142c1"/>
+          <path id="Trazado_190076" data-name="Trazado 190076" d="M486.558,57.07h-9.565a1.089,1.089,0,0,1-1.086-1.086v-7.9A1.09,1.09,0,0,1,476.993,47h9.565a1.09,1.09,0,0,1,1.086,1.086v7.9a1.089,1.089,0,0,1-1.086,1.086" fill="#fff"/>
+          <path id="Trazado_190077" data-name="Trazado 190077" d="M485.5,47.636s.808-6.542-3.361-6.725c-2.429-.106-3.719,1.55-3.719,3.818" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.624"/>
+          <path id="Trazado_190078" data-name="Trazado 190078" d="M483.5,51.2a1.722,1.722,0,1,0-2.584,1.489V54.6h1.668V52.717A1.719,1.719,0,0,0,483.5,51.2" fill="#5c379b"/>
+        </g>
+      </g>
+      <text id="El_escáner_solo_puede_" data-name="El escáner solo puede " transform="translate(36.984 148.18)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">El escáner solo puede </tspan></text>
+      <text id="leer_la_información_de_" data-name="leer la información de " transform="translate(37.708 165.901)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">leer la información de </tspan></text>
+      <text id="configuración_de_los_" data-name="configuración de los " transform="translate(42.183 183.624)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">configu</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">ación de los </tspan></text>
+      <text id="banners_de_servicio" data-name="banners de servicio" transform="translate(44.974 201.345)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">banners de se</tspan><tspan y="0" letter-spacing="0.008em">r</tspan><tspan y="0">vicio</tspan></text>
+      <g id="Grupo_143556" data-name="Grupo 143556">
+        <g id="Grupo_143555" data-name="Grupo 143555" clip-path="url(#clip-path)">
+          <path id="Trazado_190079" data-name="Trazado 190079" d="M1147.7,284.661H911.224a8.184,8.184,0,0,1-8.16-8.16V84.842a8.184,8.184,0,0,1,8.16-8.16H1147.7a8.184,8.184,0,0,1,8.16,8.16V276.5a8.184,8.184,0,0,1-8.16,8.16" fill="#7142c1"/>
+          <path id="Trazado_190080" data-name="Trazado 190080" d="M1147.9,279.1H919.184a8.184,8.184,0,0,1-8.16-8.16V84.842a8.184,8.184,0,0,1,8.16-8.16H1147.9a8.184,8.184,0,0,1,8.16,8.16v186.1a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="hay_que_asegurarse_de_que_son_" data-name="hay que asegurarse de que son " transform="translate(930.167 110.476)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">h</tspan><tspan y="0" letter-spacing="-0.007em">a</tspan><tspan y="0">y que asegu</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">arse de que son </tspan></text>
+      <text id="realmente_falsos_por_naturaleza_" data-name="realmente falsos, por naturaleza, " transform="translate(925.205 128.197)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">ealmente falsos, por natu</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">aleza, </tspan></text>
+      <text id="los_humanos_tendemos_a_ignorar_" data-name="los humanos tendemos a ignorar " transform="translate(923.979 145.919)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">los humanos tendemos a igno</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">ar </tspan></text>
+      <text id="los_falsos_positivos_bastante_" data-name="los falsos positivos bastante " transform="translate(937.905 163.641)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">los falsos positi</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">os bastante </tspan></text>
+      <text id="rápido._Por_ejemplo_" data-name="rápido. Por ejemplo, " transform="translate(966.63 181.363)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">ápido. </tspan><tspan y="0" letter-spacing="-0.006em">P</tspan><tspan y="0">or ejemplo, </tspan></text>
+      <text id="supongamos_que_un_escáner_de_" data-name="supongamos que un escáner de " transform="translate(927.125 199.085)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">supongamos que un escáner de </tspan></text>
+      <text id="seguridad_de_aplicaciones_web_" data-name="seguridad de aplicaciones web " transform="translate(930.861 216.807)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">seguridad de aplicaciones web </tspan></text>
+      <text id="detecta_100_vulnerabilidades_de_" data-name="detecta 100 vulnerabilidades de " transform="translate(927.805 234.528)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">detecta 100 vulne</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">abilidades de </tspan></text>
+      <text id="Inyección_SQL." data-name="Inyección SQL." transform="translate(983.421 252.251)" fill="#5c379b" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">In</tspan><tspan y="0" letter-spacing="-0.006em">y</tspan><tspan y="0">ección SQL.</tspan></text>
+      <g id="Grupo_143558" data-name="Grupo 143558">
+        <g id="Grupo_143557" data-name="Grupo 143557" clip-path="url(#clip-path)">
+          <path id="Trazado_190081" data-name="Trazado 190081" d="M401.233,689.667H206.94a8.184,8.184,0,0,1-8.16-8.16v-108.6a8.184,8.184,0,0,1,8.16-8.16H401.233a8.184,8.184,0,0,1,8.16,8.16v108.6a8.184,8.184,0,0,1-8.16,8.16" fill="#5bb8b2"/>
+          <path id="Trazado_190082" data-name="Trazado 190082" d="M401.4,684.35H211.7a8.184,8.184,0,0,1-8.16-8.16V572.859a8.184,8.184,0,0,1,8.16-8.16H401.4a8.184,8.184,0,0,1,8.16,8.16V676.19a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Que_lee_un_banner_de_" data-name="Que lee un banner de " transform="translate(237.621 583.308)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Que lee un banner de </tspan></text>
+      <text id="Apache_puede_detectar_que_" data-name="Apache puede detectar que " transform="translate(216.665 601.029)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Apache puede detectar que </tspan></text>
+      <text id="sólo_la_versión_2_2_15_se_" data-name="sólo la versión 2 2 15 se " transform="translate(227.607 618.751)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">sólo la </tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">ersión 2 2 15 se </tspan></text>
+      <text id="instala_desde_el_banner_" data-name="instala desde el banner " transform="translate(230.753 636.473)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">instala desde el banner </tspan></text>
+      <text id="HTTP_incluso_cuando_la_" data-name="HTTP, incluso cuando la " transform="translate(228.257 654.195)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.014em">H</tspan><tspan y="0" letter-spacing="0.007em">T</tspan><tspan y="0">T</tspan><tspan y="0" letter-spacing="-0.158em">P</tspan><tspan y="0">, incluso cuando la </tspan></text>
+      <text id="versión_2_2_15_39." data-name="versión 2 2 15 39." transform="translate(248.579 671.917)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">ersión 2 2 15 39.</tspan></text>
+      <g id="Grupo_143560" data-name="Grupo 143560">
+        <g id="Grupo_143559" data-name="Grupo 143559" clip-path="url(#clip-path)">
+          <path id="Trazado_190083" data-name="Trazado 190083" d="M640.621,689.667H438.9a8.184,8.184,0,0,1-8.16-8.16v-108.6a8.184,8.184,0,0,1,8.16-8.16H640.621a8.184,8.184,0,0,1,8.16,8.16v108.6a8.184,8.184,0,0,1-8.16,8.16" fill="#5bb8b2"/>
+          <path id="Trazado_190084" data-name="Trazado 190084" d="M640.793,684.35H443.831a8.184,8.184,0,0,1-8.16-8.16V572.859a8.184,8.184,0,0,1,8.16-8.16H640.793a8.184,8.184,0,0,1,8.16,8.16V676.19a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Es_cuando_el_escáner_lee_el_" data-name="Es cuando el escáner lee el " transform="translate(451.529 585.512)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Es cuando el escáner lee el </tspan></text>
+      <text id="banner_y_detecta_la_versión_" data-name="banner y detecta la versión " transform="translate(452.327 603.233)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">banner y detecta la </tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">ersión </tspan></text>
+      <text id="de_SSH_que_está_instalada_" data-name="de SSH que está instalada, " transform="translate(452.903 620.955)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">de SSH que está instalada, </tspan></text>
+      <text id="pero_no_puede_detectar_el_" data-name="pero no puede detectar el " transform="translate(456.802 638.677)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">pe</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">o no puede detectar el </tspan></text>
+      <text id="nivel_de_parche_o_el_" data-name="nivel de parche o el " transform="translate(477.359 656.399)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ni</tspan><tspan y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">el de pa</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">che o el </tspan></text>
+      <text id="sistema_operativo." data-name="sistema operativo." transform="translate(479.633 674.121)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">sistema ope</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">ati</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">o.</tspan></text>
+      <g id="Grupo_143562" data-name="Grupo 143562">
+        <g id="Grupo_143561" data-name="Grupo 143561" clip-path="url(#clip-path)">
+          <path id="Trazado_190085" data-name="Trazado 190085" d="M150.1,691.587H8.16A8.184,8.184,0,0,1,0,683.427V572.913a8.184,8.184,0,0,1,8.16-8.16H150.1a8.184,8.184,0,0,1,8.16,8.16V683.427a8.184,8.184,0,0,1-8.16,8.16" fill="#5bb8b2"/>
+          <path id="Trazado_190086" data-name="Trazado 190086" d="M150.229,686.188H11.736a8.184,8.184,0,0,1-8.16-8.16V572.858a8.184,8.184,0,0,1,8.16-8.16H150.229a8.184,8.184,0,0,1,8.16,8.16v105.17a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Está_instalada_y_la_" data-name="Está instalada y la " transform="translate(20.658 596.324)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Está instalada y la </tspan></text>
+      <text id="versión_contiene_una_" data-name="versión contiene una " transform="translate(12.078 614.046)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.006em">v</tspan><tspan y="0">ersión contiene una </tspan></text>
+      <text id="corrección_de_" data-name="corrección de " transform="translate(35.337 631.768)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">cor</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">ección de </tspan></text>
+      <text id="software_que_fue_" data-name="software que fue " transform="translate(24.689 649.489)" fill="#30847c" font-size="14.768" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="0">softwa</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">e </tspan><tspan y="0" font-family="Roboto-Regular, Roboto" font-style="normal">que fue </tspan></text>
+      <text id="respaldada." transform="translate(41.569 667.212)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">espaldada.</tspan></text>
+      <g id="Grupo_143564" data-name="Grupo 143564">
+        <g id="Grupo_143563" data-name="Grupo 143563" clip-path="url(#clip-path)">
+          <path id="Trazado_190087" data-name="Trazado 190087" d="M984.562,683.712H815.613a8.184,8.184,0,0,1-8.16-8.16V572.91a8.184,8.184,0,0,1,8.16-8.16H984.562a8.184,8.184,0,0,1,8.16,8.16V675.552a8.184,8.184,0,0,1-8.16,8.16" fill="#5bb8b2"/>
+          <path id="Trazado_190088" data-name="Trazado 190088" d="M984.708,678.648H819.8a8.184,8.184,0,0,1-8.16-8.16V572.859a8.184,8.184,0,0,1,8.16-8.16H984.708a8.184,8.184,0,0,1,8.16,8.16v97.629a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="El_escáner_no_puede_" data-name="El escáner no puede " transform="translate(837.769 593.324)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">El escáner no puede </tspan></text>
+      <text id="determinar_con_" data-name="determinar con " transform="translate(854.088 611.046)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">determinar con </tspan></text>
+      <text id="precisión_si_existe_una_" data-name="precisión si existe una " transform="translate(831.049 628.768)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">p</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">ecisión si existe una </tspan></text>
+      <text id="vulnerabilidad_en_" data-name="vulnerabilidad  en " transform="translate(846.512 646.489)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">vulne</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0" xml:space="preserve">abilidad  en </tspan></text>
+      <text id="algunos_casos" data-name="algunos casos" transform="translate(856.17 664.212)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">algunos casos</tspan></text>
+      <g id="Grupo_143566" data-name="Grupo 143566">
+        <g id="Grupo_143565" data-name="Grupo 143565" clip-path="url(#clip-path)">
+          <path id="Trazado_190089" data-name="Trazado 190089" d="M1129.881,393.627H960.932a8.184,8.184,0,0,1-8.16-8.16V312.053a8.184,8.184,0,0,1,8.16-8.16h168.949a8.184,8.184,0,0,1,8.16,8.16v73.414a8.184,8.184,0,0,1-8.16,8.16" fill="#db9821"/>
+          <path id="Trazado_190090" data-name="Trazado 190090" d="M1130.028,389.807H965.119a8.184,8.184,0,0,1-8.16-8.16V312.015a8.184,8.184,0,0,1,8.16-8.16h164.909a8.184,8.184,0,0,1,8.16,8.16v69.632a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="La_vulnerabilidad_puede_" data-name="La vulnerabilidad puede " transform="translate(970.064 329.441)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">La vulne</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">abilidad puede </tspan></text>
+      <text id="ser_identificada_" data-name="ser identificada " transform="translate(996.957 347.163)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ser identificada </tspan></text>
+      <text id="correctamente_en_un_" data-name="correctamente en un " transform="translate(979.781 364.885)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">cor</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">ectamente en un </tspan></text>
+      <text id="activo" transform="translate(1027.749 382.607)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">acti</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">o</tspan></text>
+      <g id="Grupo_143568" data-name="Grupo 143568">
+        <g id="Grupo_143567" data-name="Grupo 143567" clip-path="url(#clip-path)">
+          <path id="Trazado_190091" data-name="Trazado 190091" d="M1129.881,511.256H960.932a8.184,8.184,0,0,1-8.16-8.16V429.682a8.184,8.184,0,0,1,8.16-8.16h168.949a8.184,8.184,0,0,1,8.16,8.16V503.1a8.184,8.184,0,0,1-8.16,8.16" fill="#db9821"/>
+          <path id="Trazado_190092" data-name="Trazado 190092" d="M1130.028,507.436H965.119a8.184,8.184,0,0,1-8.16-8.16V429.644a8.184,8.184,0,0,1,8.16-8.16h164.909a8.184,8.184,0,0,1,8.16,8.16v69.632a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="pero_es_un_falso_" data-name="pero es un falso " transform="translate(992.976 450.528)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">pe</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">o es un falso </tspan></text>
+      <text id="positivo_en_el_" data-name="positivo en el " transform="translate(1002.176 468.25)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">positi</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">o en el </tspan></text>
+      <text id="otro_activo" data-name="otro activo" transform="translate(1010.506 485.972)" fill="#606060" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ot</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">o acti</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">o</tspan></text>
+      <g id="Grupo_143570" data-name="Grupo 143570">
+        <g id="Grupo_143569" data-name="Grupo 143569" clip-path="url(#clip-path)">
+          <path id="Trazado_190093" data-name="Trazado 190093" d="M783.9,683.712h-116.7a8.184,8.184,0,0,1-8.16-8.16V572.91a8.184,8.184,0,0,1,8.16-8.16H783.9a8.184,8.184,0,0,1,8.16,8.16V675.552a8.184,8.184,0,0,1-8.16,8.16" fill="#5bb8b2"/>
+          <path id="Trazado_190094" data-name="Trazado 190094" d="M784.008,678.648H670.768a8.184,8.184,0,0,1-8.16-8.16V572.859a8.184,8.184,0,0,1,8.16-8.16h113.24a8.184,8.184,0,0,1,8.16,8.16v97.629a8.184,8.184,0,0,1-8.16,8.16" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Pero_no_puede_" data-name="Pero no puede " transform="translate(679.513 599.312)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.006em">P</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">o no puede </tspan></text>
+      <text id="determinar_el_" data-name="determinar el " transform="translate(683.529 617.033)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">determinar el </tspan></text>
+      <text id="sistema_" data-name="sistema " transform="translate(700.602 634.755)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">sistema </tspan></text>
+      <text id="operativo" transform="translate(696.245 652.477)" fill="#30847c" font-size="14.768" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">ope</tspan><tspan y="0" letter-spacing="-0.019em">r</tspan><tspan y="0">ati</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">o</tspan></text>
+      <text id="También" transform="translate(168.385 552.127)" fill="#30847c" font-size="14.768" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.082em">T</tspan><tspan y="0">ambién</tspan></text>
+      <text id="Por_ejemplo" data-name="Por ejemplo" transform="translate(241.366 204.834)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.006em">P</tspan><tspan y="0">or ejemplo</tspan></text>
+      <g id="Grupo_143572" data-name="Grupo 143572">
+        <g id="Grupo_143571" data-name="Grupo 143571" clip-path="url(#clip-path)">
+          <text id="Puede_ocurrir" data-name="Puede ocurrir" transform="translate(200.029 14.213)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Puede ocurrir</tspan></text>
+        </g>
+      </g>
+      <text id="cuando" transform="translate(223.271 34.149)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">cuando</tspan></text>
+      <g id="Grupo_143574" data-name="Grupo 143574">
+        <g id="Grupo_143573" data-name="Grupo 143573" clip-path="url(#clip-path)">
+          <text id="Cuando_se_comprueban_" data-name="Cuando se comprueban " transform="translate(783.461 14.213)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Cuando se comprueban </tspan></text>
+        </g>
+      </g>
+      <text id="los_falsos_positivos" data-name="los falsos positivos" transform="translate(799.633 34.149)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">los falsos positi</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">os</tspan></text>
+      <text id="Falso_Positivo" data-name="Falso Positivo" transform="translate(537.292 57.908)" fill="#5c379b" font-size="22.152" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0" letter-spacing="-0.016em">F</tspan><tspan y="0">also </tspan><tspan y="0" letter-spacing="-0.006em">P</tspan><tspan y="0">ositi</tspan><tspan y="0" letter-spacing="-0.007em">v</tspan><tspan y="0">o</tspan></text>
+      <text id="Un_escáner_" data-name="Un escáner " transform="translate(297.686 461.801)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Un escáner </tspan></text>
+      <text id="Otro_" data-name="Otro " transform="translate(502.241 452.214)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Ot</tspan><tspan y="0" letter-spacing="-0.017em">r</tspan><tspan y="0">o </tspan></text>
+      <text id="ejemplo_" data-name="ejemplo " transform="translate(488.451 472.151)" fill="#5c379b" font-size="16.614" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">ejemplo </tspan></text>
+      <text id="Si_el_escáner_" data-name="Si el escáner " transform="translate(652.598 437.545)" fill="#5c379b" font-size="14.768" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Si el escáner </tspan></text>
+      <text id="detecta_" data-name="detecta " transform="translate(670.201 455.267)" fill="#5c379b" font-size="14.768" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">detecta </tspan></text>
+      <text id="que_SSH_2_está_" data-name="que SSH 2 está " transform="translate(644.563 472.988)" fill="#5c379b" font-size="14.768" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">que SSH 2 está </tspan></text>
+      <text id="instalado" transform="translate(664.56 490.71)" fill="#5c379b" font-size="14.768" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">instalado</tspan></text>
+    </g>
+  </g>
+</svg>

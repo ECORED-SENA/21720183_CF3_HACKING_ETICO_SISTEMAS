@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="72.066" viewBox="0 0 610 72.066">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_37495" data-name="Rectángulo 37495" width="610" height="72.066" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_37494" data-name="Rectángulo 37494" width="610.162" height="71.066" transform="translate(0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_37493" data-name="Rectángulo 37493" width="131.6" height="36.458" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_143621" data-name="Grupo 143621" transform="translate(-180 -9822.738)">
+    <g id="Grupo_112917" data-name="Grupo 112917" transform="translate(180 9822.738)">
+      <g id="Grupo_112083" data-name="Grupo 112083" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Trazado_169408" data-name="Trazado 169408" d="M15.226,2.239v46.2l548.268.06,17.051-46.27Z" transform="translate(-15.226 9.698)" fill="#7142c1"/>
+        <g id="Grupo_112082" data-name="Grupo 112082" transform="translate(-0.162 1)">
+          <g id="Grupo_112081" data-name="Grupo 112081" clip-path="url(#clip-path-2)">
+            <g id="Grupo_112080" data-name="Grupo 112080" transform="translate(1.046 13.39)">
+              <g id="Grupo_112079" data-name="Grupo 112079">
+                <g id="Grupo_112078" data-name="Grupo 112078" clip-path="url(#clip-path-3)">
+                  <path id="Trazado_169409" data-name="Trazado 169409" d="M153.593,10.9a3.369,3.369,0,0,1-1.523-.374L121.623,40.662H25.381V38.585H65L82.455,21.314h31.388v2.077H83.326L67.974,38.585h52.779L150.586,9.061a3.3,3.3,0,0,1-.378-1.509,3.386,3.386,0,1,1,3.386,3.352" transform="translate(-25.382 -4.203)" fill="#a7f"/>
+                </g>
+              </g>
+            </g>
+            <path id="Trazado_169410" data-name="Trazado 169410" d="M.035,22.292c0-5.125.046-10.25-.035-15.373A1.852,1.852,0,0,1,1.371,4.879,63.05,63.05,0,0,1,18.778.452,67.494,67.494,0,0,1,50.295,4.218c3.02,1.131,3.02,1.131,3.02,4.308,0,9.614.023,19.227-.03,28.839a8.926,8.926,0,0,1-.673,3.284c-2.049,4.963-5.451,8.937-9.373,12.5A70.534,70.534,0,0,1,27.353,63.9a1.511,1.511,0,0,1-1.18.084c-8.13-4.156-15.558-9.246-21.342-16.464A26.834,26.834,0,0,1,.317,39.63a4.833,4.833,0,0,1-.27-1.561C.028,32.81.035,27.551.035,22.292" transform="translate(521.041 2.999)" fill="#79f5ed"/>
+            <path id="Trazado_169411" data-name="Trazado 169411" d="M10.255,21.875c0-1.51.011-3.012,0-4.513a10.637,10.637,0,0,1,3.637-8.346A10.386,10.386,0,0,1,25.528,6.934a10.678,10.678,0,0,1,6.893,9.848c.095,1.674.016,3.356.016,5.057a1.83,1.83,0,0,0,.354.109c2.093.148,2.79.858,2.8,2.933q.016,6.754,0,13.51a2.334,2.334,0,0,1-2.624,2.636q-11.636.008-23.269,0a2.363,2.363,0,0,1-2.611-2.665q-.011-6.754,0-13.51c0-1.988.754-2.759,2.755-2.9a4.212,4.212,0,0,0,.419-.077m17.421.042c0-1.672.026-3.286-.005-4.9a6.338,6.338,0,0,0-5.74-6.152,6.183,6.183,0,0,0-6.756,5.069,43.863,43.863,0,0,0-.051,5.983ZM21.3,37.851c.68,0,1.362.011,2.042,0,1.053-.019,1.32-.38,1.022-1.4-.447-1.528-.9-3.056-1.372-4.575a.855.855,0,0,1,.289-1.092,3.116,3.116,0,0,0,.342-4.664,3.165,3.165,0,0,0-4.569.014,3.115,3.115,0,0,0,.37,4.664.787.787,0,0,1,.3,1c-.507,1.6-.976,3.209-1.439,4.821-.231.8.056,1.192.887,1.22.708.025,1.418.005,2.128.007" transform="translate(526.366 7.547)" fill="#500c75"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="_Qué_es_SAM_Security_Account_Manager_Database_" data-name="¿Qué es SAM (Security Account Manager Database)?" transform="translate(233.23 9845.738)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">¿Qué es SAM (Security Account Manager Database)?</tspan></text>
+  </g>
+</svg>
