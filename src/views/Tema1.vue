@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4
       .col-lg-12
         .cajon-b.color-primario.p-3.mb-5
-          p Las vulnerabilidades en el software, son una de las principales puertas de entrada para los cibercriminales, pero también, es un vector de ataque, una mala configuración de nuestros servicios, e incluso la exposición de puerto TCP/UDP a Internet sin ningún tipo de filtrado. Los piratas informáticos están buscando constantemente nuevas formas de atacar cualquier ordenador, servidor o red a través de estos fallos de seguridad, por este motivo, los propios ingenieros de las compañías, los investigadores de seguridad y los hackers éticos están constantemente analizando los diferentes programas en busca de fallos de seguridad y reportándose para que se solucione, la herramienta imprescindible para esta tarea con los escáneres de vulnerabilidades.
+          p Las vulnerabilidades en el <em>software</em>, son una de las principales puertas de entrada para los cibercriminales, pero también, es un vector de ataque, una mala configuración de nuestros servicios, e incluso la exposición de puerto TCP/UDP a Internet sin ningún tipo de filtrado. Los piratas informáticos están buscando constantemente nuevas formas de atacar cualquier ordenador, servidor o red a través de estos fallos de seguridad, por este motivo, los propios ingenieros de las compañías, los investigadores de seguridad y los hackers éticos están constantemente analizando los diferentes programas en busca de fallos de seguridad y reportándose para que se solucione, la herramienta imprescindible para esta tarea con los escáneres de vulnerabilidades.
       .col-lg-12.mb-5
         img(src='@/assets/curso/tema1/img01.png')
       .col-lg-10.mb-4
@@ -50,7 +50,7 @@
     .BGIMG01.p-4
       .row.justify-content-center.align-items-center.mb-3
         .col-lg-12.mb-4
-          p Un escáner de vulnerabilidades es un software diseñado para realizar análisis automáticos de cualquier aplicación, sistema o red en busca de cualquier posible vulnerabilidad que exista, aunque estas aplicaciones no son capaces de detectar la vulnerabilidad con total precisión, sí son capaces de detectar ciertos elementos que podrían desencadenar en una vulnerabilidad, facilitando enormemente el trabajo a los investigadores e ingenieros.
+          p Un escáner de vulnerabilidades es un <em>software</em> diseñado para realizar análisis automáticos de cualquier aplicación, sistema o red en busca de cualquier posible vulnerabilidad que exista, aunque estas aplicaciones no son capaces de detectar la vulnerabilidad con total precisión, sí son capaces de detectar ciertos elementos que podrían desencadenar en una vulnerabilidad, facilitando enormemente el trabajo a los investigadores e ingenieros.
         .col-lg-6
           .row
             .col-12
@@ -83,7 +83,7 @@
               | Detectar los puertos abiertos en el host (descubrimiento o enumeración de puertos)
             li
               .lista-candado
-              | Detectar el software y la versión del puerto respectivo (descubrimiento de servicio)
+              | Detectar el <em>software</em> y la versión del puerto respectivo (descubrimiento de servicio)
             li
               .lista-candado
               | Detectar el sistema operativo, la dirección del hardware y la versión del <em>software</em>.
@@ -233,12 +233,12 @@
             p.mb-0 Comúnmente, los falsos positivos en la exploración de vulnerabilidades ocurren cuando el explorador puede acceder solo a un subconjunto de la información requerida, lo que le impide determinar con precisión si existe una vulnerabilidad. Para ayudar a reducir el número de falsos positivos, se deben configurar sus escáneres con las credenciales adecuadas, estos necesitan acceder a toda la información requerida de los activos para que pueda determinar con precisión si existe una vulnerabilidad, tanto si se utiliza una herramienta de exploración de vulnerabilidades como si se utiliza otra forma de identificación de vulnerabilidades. Existen dos tipos de errores que hay que tener en cuenta:
 
     .row.mb-5 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .tarjeta-numerada.color-primario.p-5
           .tarjeta-numerada__numero
             .h2 1
           p <b>Error de tipo I - falso positivo</b>, un resultado que indica que una vulnerabilidad está presente cuando no lo está, esto crea ruido y resulta en un trabajo de remediación innecesario.
-      .col-lg-6 
+      .col-lg-6(data-aos="fade-left") 
         .tarjeta-numerada.color-secundario.p-5
           .tarjeta-numerada__numero
             .h2 2

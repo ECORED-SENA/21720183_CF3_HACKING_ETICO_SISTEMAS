@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
-        span.text-white 2
+        span.text-white 4
       h1 Ataques a redes cableadas
 
     .BGIMG12.p-3
