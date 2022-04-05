@@ -39,7 +39,7 @@
               p He aquí una buena analogía: un escaneo de vulnerabilidades es como caminar hacia una puerta, comprobar si está abierta y detenerse allí, mientras que una prueba de penetración va un poco más allá, no solo comprueba si la puerta está desbloqueada, sino que también abre la puerta y entra directamente.
     .row.align-items-center 
       .col-lg-7.mt-4
-        p Existen varias formas de realizar análisis de vulnerabilidades, pero una de las más comunes es a través de un <em>software</em> de exploración de vulnerabilidades automatizado, estas herramientas utilizan bases de datos de vulnerabilidades conocidas para identificar posibles fallos en sus redes, aplicaciones, contenedores, sistemas, datos, hardware y más, la herramienta de análisis de vulnerabilidades escaneará exhaustivamente cada aspecto de su tecnología, una vez que se completen los escaneos, la herramienta informará sobre todos los problemas descubiertos y sugerirá acciones para eliminar las amenazas.
+        p Existen varias formas de realizar análisis de vulnerabilidades, pero una de las más comunes es a través de un <em>software</em> de exploración de vulnerabilidades automatizado, estas herramientas utilizan bases de datos de vulnerabilidades conocidas para identificar posibles fallos en sus redes, aplicaciones, contenedores, sistemas, datos, <em>hardware</em> y más, la herramienta de análisis de vulnerabilidades escaneará exhaustivamente cada aspecto de su tecnología, una vez que se completen los escaneos, la herramienta informará sobre todos los problemas descubiertos y sugerirá acciones para eliminar las amenazas.
         p Las herramientas más completas pueden ofrecer una visión de la seguridad y el impacto operativo de la reparación de un riesgo, en comparación con la aceptación del riesgo, los datos de escaneo de vulnerabilidades también pueden ser integrados en un SIEM junto con otros datos para un análisis de amenazas aún más holístico.
       .col-lg-5
         img(src='@/assets/curso/tema1/img05.svg') 
@@ -68,7 +68,8 @@
         .col-lg-7.p-0
           img(src='@/assets/curso/tema1/img09.svg') 
         .col-lg-5.BG01.p-4        
-          p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de <em>host</em> que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows, Linux, BSD y Mac</em>. 
+          p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de host que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows</em>, Linux, BSD y Mac
+          . 
       .row.justify-content-center.mb-2.p-0
         .col-lg-10.p-0
           p  Nmap es una herramienta muy común y poderosa, y está disponible tanto para la interfaz de línea de comandos como para la interfaz gráfica de usuario. Puede utilizarse para:
@@ -86,7 +87,7 @@
               | Detectar el <em>software</em> y la versión del puerto respectivo (descubrimiento de servicio)
             li
               .lista-candado
-              | Detectar el sistema operativo, la dirección del hardware y la versión del <em>software</em>.
+              | Detectar el sistema operativo, la dirección del <em>hardware</em> y la versión del <em>software</em>.
             li
               .lista-candado
               | Detectar la vulnerabilidad y los agujeros de seguridad (scripts Nmap)
@@ -98,14 +99,14 @@
           img(src='@/assets/curso/tema1/img31.svg')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p.mb-0 Nessus es una herramienta de escaneo de seguridad remota, que escanea un ordenador y emite una alerta si descubre alguna vulnerabilidad que los hackers maliciosos podrían utilizar para obtener acceso a cualquier ordenador que se haya conectado a una red, todo esto lo logra ejecutando más de 1200 chequeos en una computadora dada, probando para ver si alguno de estos ataques podría ser usado para irrumpir en la computadora o dañarla de alguna manera.
+        p.mb-0 <em>Nessus</em> es una herramienta de escaneo de seguridad remota, que escanea un ordenador y emite una alerta si descubre alguna vulnerabilidad que los hackers maliciosos podrían utilizar para obtener acceso a cualquier ordenador que se haya conectado a una red, todo esto lo logra ejecutando más de 1200 chequeos en una computadora dada, probando para ver si alguno de estos ataques podría ser usado para irrumpir en la computadora o dañarla de alguna manera.
         .row.BG02.justify-content-center
           .col-11.py-3
-            p Si usted es un administrador a cargo de cualquier computadora (o grupo de computadoras) conectada a Internet, Nessus es una gran herramienta que ayuda a mantener sus dominios libres de las fáciles vulnerabilidades que los hackers y virus comúnmente buscan explotar. 
+            p Si usted es un administrador a cargo de cualquier computadora (o grupo de computadoras) conectada a Internet, <em>Nessus</em> es una gran herramienta que ayuda a mantener sus dominios libres de las fáciles vulnerabilidades que los hackers y virus comúnmente buscan explotar. 
       .col-lg-5.p-0
         img(src='@/assets/curso/tema1/img12.png')
 
-    p.mb-4 Lo invitamos a ver el siguiente recurso, para aprender cómo funcionan Nessus y otras herramientas de seguridad de escaneo de puertos.
+    p.mb-4 Lo invitamos a ver el siguiente recurso, para aprender cómo funcionan <em>Nessus</em> y otras herramientas de seguridad de escaneo de puertos.
 
     .row.align-items-center.mb-4
       .col-lg-4
@@ -151,7 +152,7 @@
               p Cada computadora tiene miles de puertos, los cuales pueden o no tener servicios (por ejemplo: un servidor para un protocolo específico de alto nivel) escuchando en ellos. por un flujo TCP.
           .row.justify-content-center.align-items-center
             .col-md-9.mb-4.mb-md-0
-              p Nessus trabaja probando cada puerto en una computadora, determinando qué servicio está corriendo, y luego probando este servicio.
+              p <em>Nessus</em> trabaja probando cada puerto en una computadora, determinando qué servicio está corriendo, y luego probando este servicio.
             .col-md-3
               figure
                 img(src='@/assets/curso/tema1/img19.svg')
@@ -162,7 +163,7 @@
             .col-md-9.mb-4.mb-md-0
               p Debe asegurarse que no hay vulnerabilidades en él que puedan ser usadas por un hacker para llevar a cabo un ataque malicioso. 
 
-    p.mb-4 Nessus es llamado un "scanner remoto" porque no necesita ser instalado en una computadora para que pueda probar esa computadora, en su lugar, puede instalarlo en un solo ordenador y probar tantos ordenadores como desee.
+    p.mb-4 <em>Nessus</em> es llamado un "scanner remoto" porque no necesita ser instalado en una computadora para que pueda probar esa computadora, en su lugar, puede instalarlo en un solo ordenador y probar tantos ordenadores como desee.
 
     .BGIMG01.p-4
       .row.align-items-center.mb-0

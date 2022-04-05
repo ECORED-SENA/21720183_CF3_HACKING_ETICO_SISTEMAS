@@ -82,7 +82,7 @@
       .col-lg-1
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          p.mb-5.text-small(numero="1" titulo="Ataques simples de fuerza bruta") Los ciberdelincuentes intentan adivinar lógicamente sus credenciales, sin ayuda de herramientas de software u otros medios, estos pueden revelar contraseñas y PINs extremadamente simples. Por ejemplo, una contraseña que se establece como "SENA12345".
+          p.mb-5.text-small(numero="1" titulo="Ataques simples de fuerza bruta") Los ciberdelincuentes intentan adivinar lógicamente sus credenciales, sin ayuda de herramientas de <em>software</em> u otros medios, estos pueden revelar contraseñas y PINs extremadamente simples. Por ejemplo, una contraseña que se establece como "SENA12345".
           
           p.text-small(numero="2" titulo="Ataques de diccionario") Es un ataque estándar, un ciberdelincuente elige un objetivo y ejecuta posibles contraseñas contra ese nombre de usuario (como lo vimos en anteriormente), estos son conocidos como ataques de diccionario, los ataques de diccionario son la herramienta más básica en los ataques de fuerza bruta, aunque no son necesariamente ataques de fuerza bruta en sí mismos, a menudo se utilizan como un componente importante para descifrar contraseñas; algunos ciberdelincuentes recorren los diccionarios completos y aumentan las palabras con caracteres y números especiales o utilizan diccionarios especiales de palabras, pero este tipo de ataque secuencial es engorroso.
           
@@ -193,14 +193,14 @@
           img(src='@/assets/curso/tema3/img30.svg')
       .row.align-items-center.mb-5
         .col-lg-7
-          p.mb-0 Se sabe que las computadoras de Windows pueden ser configuradas para estar en un grupo de trabajo o unidas a un dominio. En un grupo de trabajo, cada computadora tiene su propio SAM que contiene información sobre todas sus cuentas locales de usuario y de grupo, las contraseñas asociadas con cada una de estas cuentas se guardan en el SAM; el hash de las contraseñas ofrece cierta medida de seguridad y minimiza los riesgos de un ataque, la autoridad de seguridad local (LSA) valida el intento de inicio de sesión de un usuario verificando sus credenciales con los datos almacenados en el SAM El intento de inicio de sesión de un usuario sólo tiene éxito cuando la contraseña introducida coincide con la contraseña almacenada en el SAM local.
+          p.mb-0 Se sabe que las computadoras de <em>Windows</em> pueden ser configuradas para estar en un grupo de trabajo o unidas a un dominio. En un grupo de trabajo, cada computadora tiene su propio SAM que contiene información sobre todas sus cuentas locales de usuario y de grupo, las contraseñas asociadas con cada una de estas cuentas se guardan en el SAM; el hash de las contraseñas ofrece cierta medida de seguridad y minimiza los riesgos de un ataque, la autoridad de seguridad local (LSA) valida el intento de inicio de sesión de un usuario verificando sus credenciales con los datos almacenados en el SAM El intento de inicio de sesión de un usuario sólo tiene éxito cuando la contraseña introducida coincide con la contraseña almacenada en el SAM local.
           p Revise en el siguiente recurso para conocer cómo se lleva a cabo la autenticación Microsoft SAM.
         .col-lg-5.p-0
           img(src='@/assets/curso/tema3/img31.svg')
       LineaTiempoC.color-primario.mb-4(text-small)
         .row.justify-content-center.align-items-center(titulo="1")
           .col-md-7.mb-4.mb-md-0
-            p Windows almacena y gestiona las cuentas locales de usuario y de grupo en un archivo de base de datos llamado Security Account Manager (SAM).      
+            p <em>Windows</em> almacena y gestiona las cuentas locales de usuario y de grupo en un archivo de base de datos llamado Security Account Manager (SAM).      
           .col-md-3
             figure.p-4
               img(src='@/assets/curso/tema3/img32.svg')
@@ -224,7 +224,7 @@
               img(src='@/assets/curso/tema3/img35.svg')
         .row.justify-content-center.align-items-center(titulo="5")
           .col-md-7.mb-4.mb-md-0
-            p Residir la base de datos SAM en el registro de Windows.
+            p Residir la base de datos SAM en el registro de <em>Windows</em>.
           .col-md-3
             figure.p-4
               img(src='@/assets/curso/tema3/img36.svg')
@@ -289,7 +289,7 @@
         .col-lg-5.mb-5
           img(src='@/assets/curso/tema3/img42.svg') 
         .col-lg-7.mb-5
-          p NTLM consiste en una serie de protocolos de autenticación del desarrollador de software Microsoft. Al principio, solo se utilizaba como protocolo propietario, aunque ahora la autenticación NTLM (en inglés, NTLM authentication) también está disponible para otros sistemas además de Windows. NT LAN Manager permite que diferentes ordenadores y servidores se verifiquen entre sí. Una de las prioridades de la mayoría de las redes es evitar el acceso de participantes no autorizados, por lo que deben implementar un procedimiento de verificación: el cliente solo puede entrar en la red o utilizar sus servicios si ha sido autorizado.
+          p NTLM consiste en una serie de protocolos de autenticación del desarrollador de <em>software</em> Microsoft. Al principio, solo se utilizaba como protocolo propietario, aunque ahora la autenticación NTLM (en inglés, NTLM authentication) también está disponible para otros sistemas además de <em>Windows</em>. NT LAN Manager permite que diferentes ordenadores y servidores se verifiquen entre sí. Una de las prioridades de la mayoría de las redes es evitar el acceso de participantes no autorizados, por lo que deben implementar un procedimiento de verificación: el cliente solo puede entrar en la red o utilizar sus servicios si ha sido autorizado.
           p El protocolo NTLM estipula que el cliente se autentique con un nombre de usuario y la contraseña correspondiente. Para ello, se genera un intercambio entre el dispositivo del usuario y un servidor. Este último conoce los datos de inicio de sesión, por lo que puede comprobar la solicitud de acceso y, a continuación, permitirlo.
         .col-lg-12.mb-5
           .titulo-sexto.color-acento-contenido
@@ -301,7 +301,7 @@
       .col-lg-10.BG08.p-2
         .row
           .col-9
-            p La autenticación NTLM es una familia de protocolos de autenticación que se engloban en el Msv 1 0 dll de Windows Los protocolos de autenticación NTLM incluyen LAN Manager versión 1 y 2 y NTLM versión 1 y 2 Los protocolos de autenticación NTLM autentican a los usuarios y a las computadoras sobre la base de un mecanismo de desafío/respuesta que demuestra a un servidor o a un controlador de dominio que un usuario conoce la contraseña asociada a una cuenta Cuando se utiliza el protocolo NTLM, un servidor de recursos debe realizar una de las siguientes acciones para verificar la identidad de una computadora o usuario siempre que se necesite un nuevo token de acceso:
+            p La autenticación NTLM es una familia de protocolos de autenticación que se engloban en el Msv 1 0 dll de <em>Windows</em> Los protocolos de autenticación NTLM incluyen LAN Manager versión 1 y 2 y NTLM versión 1 y 2 Los protocolos de autenticación NTLM autentican a los usuarios y a las computadoras sobre la base de un mecanismo de desafío/respuesta que demuestra a un servidor o a un controlador de dominio que un usuario conoce la contraseña asociada a una cuenta Cuando se utiliza el protocolo NTLM, un servidor de recursos debe realizar una de las siguientes acciones para verificar la identidad de una computadora o usuario siempre que se necesite un nuevo token de acceso:
       .col-lg-2
         img.img04(src='@/assets/curso/tema3/img44.svg') 
     .row.mb-5 
@@ -330,7 +330,7 @@
       .col-lg-6
         .row  
           .col-12
-            p L0phtCrack es una aplicación de auditoría y recuperación de contraseñas. Utiliza múltiples métodos de evaluación para ayudar a los administradores a reducir los riesgos de seguridad. L0phtCrack ayuda a identificar y remediar las vulnerabilidades de seguridad que resultan del uso de contraseñas débiles o fáciles de adivinar y a recuperar las contraseñas de las cuentas de Windows y Unix para acceder a las cuentas de usuarios y administradores cuyas contraseñas se han perdido o para agilizar la migración de los usuarios a otro sistema de autenticación.
+            p L0phtCrack es una aplicación de auditoría y recuperación de contraseñas. Utiliza múltiples métodos de evaluación para ayudar a los administradores a reducir los riesgos de seguridad. L0phtCrack ayuda a identificar y remediar las vulnerabilidades de seguridad que resultan del uso de contraseñas débiles o fáciles de adivinar y a recuperar las contraseñas de las cuentas de <em>Windows</em> y Unix para acceder a las cuentas de usuarios y administradores cuyas contraseñas se han perdido o para agilizar la migración de los usuarios a otro sistema de autenticación.
           .col-12
             .cajon.color-acento-contenido.p-3 
               .row.align-items-center

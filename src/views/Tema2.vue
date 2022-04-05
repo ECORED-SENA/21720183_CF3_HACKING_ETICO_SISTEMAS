@@ -10,7 +10,7 @@
       br
       .row.justify-content-center.align-items-center.mb-5.p-0
         .col-lg-5.mb-5.p-5
-          img(src='@/assets/curso/tema2/img02.svg')
+          img(src='@/assets/curso/tema2/img02.svg')(data-aos="fade-right")
         .col-lg-5.p-0.mb-5
           p La escalada de privilegios es la explotación de un error de programación, una vulnerabilidad, un fallo de diseño, la supervisión de la configuración o el control de acceso en un sistema operativo o una aplicación para obtener un acceso no autorizado a recursos que suelen estar restringidos de la aplicación o el usuario.
           p Esto da lugar a que la aplicación o el usuario tenga más privilegios de los previstos por el desarrollador o el administrador del sistema, lo que permite a los atacantes acceder a datos confidenciales, instalar programas malignos y lanzar otros ataques cibernéticos. En palabras simples, significa obtener privilegios para acceder a algo que no debería ser accesible, como se muestra en la siguiente figura.
@@ -21,7 +21,7 @@
             h5 Figura 2
             p.mb-0 Escalamiento de privilegios
     .row
-      .col-lg-12.p-2.mb-4
+      .col-lg-12.p-2.mb-4(data-aos="fade-right")
         img.img01(src='@/assets/curso/tema2/img03.svg')
     separador
 
@@ -30,7 +30,7 @@
 
     .BGIMG05.p-4
       .row.justify-content-center.align-items-center
-        .col-lg-10.mb-5
+        .col-lg-10.mb-5(data-aos="fade-right")
           SlyderA
             .row.justify-content-center.align-items-center
               .col-12
@@ -48,16 +48,16 @@
                 img(src='@/assets/curso/tema2/img05.svg')
               .col-9
                 h5.mb-0 Escalamiento de privilegios vertical
-                p.mb-0 Un atacante intenta obtener mayores privilegios o acceso con una cuenta existente que ha comprometido. Por ejemplo, un atacante se hace cargo de una cuenta de usuario normal en una red e intenta obtener privilegios administrativos, normalmente el administrador o el usuario del sistema en Microsoft Windows, o el root en los sistemas Unix y Linux, una vez que obtienen privilegios elevados, los atacantes pueden robar datos confidenciales sobre un usuario específico, instalar <em>software</em> de rescate, <em>spyware</em> u otros tipos de <em>malware</em>, ejecutar código malicioso y dañar la postura de seguridad de su organización.
+                p.mb-0 Un atacante intenta obtener mayores privilegios o acceso con una cuenta existente que ha comprometido. Por ejemplo, un atacante se hace cargo de una cuenta de usuario normal en una red e intenta obtener privilegios administrativos, normalmente el administrador o el usuario del sistema en Microsoft <em>Windows</em>, o el root en los sistemas Unix y Linux, una vez que obtienen privilegios elevados, los atacantes pueden robar datos confidenciales sobre un usuario específico, instalar <em>software</em> de rescate, <em>spyware</em> u otros tipos de <em>malware</em>, ejecutar código malicioso y dañar la postura de seguridad de su organización.
                 p Se suele denominar elevación de privilegios, se aplica a todas las situaciones en las que el atacante obtiene privilegios más altos, la mayoría de las veces privilegios de raíz (privilegios administrativos) la elevación de privilegios es, en la mayoría de los casos, el segundo paso de un ataque, si el ataque se dirige directamente al servidor <em>web</em>, el usuario malicioso a menudo tiene como objetivo primero obtener cualquier tipo de sistema de archivos y/o acceso a la consola; después de obtener acceso al servidor <em>web</em>, puede intentar utilizar otras técnicas para obtener acceso a una cuenta con privilegios, en la mayoría de los casos el administrador del sistema.
               .col-2.p-0
                 img(src='@/assets/curso/tema2/img08.svg')
               .col-12
                 img(src='@/assets/curso/tema2/img06.svg')
         .col-lg-10.mb-5
-          .row.BG04.justify-content-center.align-items-center.p-4
+          .row.BG04.justify-content-center.align-items-center.p-4(data-aos="fade-right")
             .col-10
-              p La escalada de privilegios locales en este caso suele basarse en configuraciones erróneas o en sistemas operativos sin parches, se sabe que tanto Microsoft Windows como Linux/UNIX tienen vulnerabilidades que permiten a los atacantes obtener privilegios de administrador mediante la ejecución de código arbitrario.
+              p La escalada de privilegios locales en este caso suele basarse en configuraciones erróneas o en sistemas operativos sin parches, se sabe que tanto Microsoft <em>Windows</em> como Linux/UNIX tienen vulnerabilidades que permiten a los atacantes obtener privilegios de administrador mediante la ejecución de código arbitrario.
             .col-2
               img(src='@/assets/curso/tema2/img09.svg')
       separador

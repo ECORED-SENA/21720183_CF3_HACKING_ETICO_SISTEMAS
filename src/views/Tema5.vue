@@ -20,7 +20,7 @@
         h2.mb-3 5.1	Conceptos y generalidades
 
     .BGIMG06.p-4
-      p.mb-5 Dentro de los conceptos que se deben abordar con respecto a Ataques con Virus y malware, es el spyware, conozca acerca del mismo en el siguiente mapa:
+      p.mb-5 Dentro de los conceptos que se deben abordar con respecto a Ataques con Virus y malware, es el <em>spyware</em>, conozca acerca del mismo en el siguiente mapa:
       figure.mb-5
         img(src='@/assets/curso/tema5/img02.svg')
 
@@ -28,15 +28,15 @@
         .col-lg-10.mb-5
           .row.BG06.justify-content-center.align-items-center.p-4
             .col-8
-              p Si alguna vez ha sido víctima de un robo de identidad o de un fraude con tarjetas de crédito, no está solo. Las estadísticas de los delitos cibernéticos cuentan la historia: un total de 978 millones de personas en 20 países se vieron afectadas por el crimen cibernético en 2017, según los resultados globales del informe Norton Cyber Security Insights Report, las víctimas de delitos cibernéticos en todo el mundo perdieron 172.000 millones de dólares, el spyware contribuyó a esas cifras.
+              p Si alguna vez ha sido víctima de un robo de identidad o de un fraude con tarjetas de crédito, no está solo. Las estadísticas de los delitos cibernéticos cuentan la historia: un total de 978 millones de personas en 20 países se vieron afectadas por el crimen cibernético en 2017, según los resultados globales del informe Norton Cyber Security Insights Report, las víctimas de delitos cibernéticos en todo el mundo perdieron 172.000 millones de dólares, el <em>spyware</em> contribuyó a esas cifras.
             .col-3
               img(src='@/assets/curso/tema5/img03.svg')
       separador
       .titulo-segundo.color-acento-contenido
         h2.mb-3 5.2	Tipos de virus y malware
 
-    p.mb-0 El <em>software</em> espía es una de las amenazas más comunes en Internet. Puede infectar fácilmente su dispositivo y puede ser difícil de identificar. El spyware es una amenaza para las empresas y los usuarios individuales, ya que puede robar información confidencial y dañar su red.
-    p.mb-5 Existen cuatro tipos principales de spyware y cada uno utiliza tácticas únicas para rastrearlo.
+    p.mb-0 El <em>software</em> espía es una de las amenazas más comunes en Internet. Puede infectar fácilmente su dispositivo y puede ser difícil de identificar. El <em>spyware</em> es una amenaza para las empresas y los usuarios individuales, ya que puede robar información confidencial y dañar su red.
+    p.mb-5 Existen cuatro tipos principales de <em>spyware</em> y cada uno utiliza tácticas únicas para rastrearlo.
 
     .BGIMG08.p-4
       .row.justify-content-center.align-items-center.mb-5
@@ -45,7 +45,7 @@
             .row.justify-content-center.align-items-center
               .col-md-8
                 h4 <em>Adware</em>
-                p Este tipo de spyware rastrea el historial de su navegador y sus descargas, con la intención de predecir qué productos o servicios le interesan. El adware mostrará anuncios de los mismos productos o servicios, o de productos o servicios relacionados, para atraerlo a hacer clic o a realizar una compra. El adware se utiliza con fines de marketing y puede ralentizar el equipo.
+                p Este tipo de <em>spyware</em> rastrea el historial de su navegador y sus descargas, con la intención de predecir qué productos o servicios le interesan. El adware mostrará anuncios de los mismos productos o servicios, o de productos o servicios relacionados, para atraerlo a hacer clic o a realizar una compra. El adware se utiliza con fines de marketing y puede ralentizar el equipo.
               .col-md-4
                 figure
                   img(src='@/assets/curso/tema5/img05.svg')
@@ -69,7 +69,7 @@
                   img(src='@/assets/curso/tema5/img08.svg')
               .col-md-8.mb-4.mb-md-0
                 h4 Monitores del sistema
-                p Este tipo de spyware puede capturar casi todo lo que hace en su computadora. Los monitores del sistema pueden registrar todas las pulsaciones de teclas, correos electrónicos, diálogos de salas de chat, sitios web visitados y programas ejecutados. Los monitores de sistemas a menudo se disfrazan de programas gratuitos.
+                p Este tipo de <em>spyware</em> puede capturar casi todo lo que hace en su computadora. Los monitores del sistema pueden registrar todas las pulsaciones de teclas, correos electrónicos, diálogos de salas de chat, sitios web visitados y programas ejecutados. Los monitores de sistemas a menudo se disfrazan de programas gratuitos.
             .row.justify-content-center.align-items-center
               .col-md-8.mb-4.mb-md-0
                 h4 <em>Rootkits</em>
@@ -82,7 +82,7 @@
       .col-lg-6
         .row.justify-content-center
           .col-12
-            p El spyware puede afectar a PC, Mac y dispositivos iOS o Android. aunque los sistemas operativos de Windows pueden ser más susceptibles de ser atacados, los atacantes también están mejorando para infiltrarse en los sistemas operativos de Apple, algunas de las formas más comunes en que su computadora puede infectarse con spyware, son las siguientes:
+            p El <em>spyware</em> puede afectar a PC, Mac y dispositivos iOS o Android. aunque los sistemas operativos de <em>Windows</em> pueden ser más susceptibles de ser atacados, los atacantes también están mejorando para infiltrarse en los sistemas operativos de Apple, algunas de las formas más comunes en que su computadora puede infectarse con <em>spyware</em>, son las siguientes:
           .col-11
             ol.lista-candado
               li
@@ -118,15 +118,15 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.mb-5
-        p Si cree que su dispositivo está infectado con spyware, realice un análisis con su <em>software</em> de seguridad actual para asegurarse de que ha limpiado todo lo que puede. A continuación, descargue y ejecute una herramienta de eliminación de virus, como el Norton Power Eraser gratuito.
-        p También existen otras herramientas de eliminación de <em>software</em> espía de buena reputación. Algunas de ellas sólo funcionan cuando se inicia manualmente el análisis. Otras supervisan continuamente el equipo para asegurarse de que el spyware no pueda modificar o supervisar su información
-        p A continuación, revise cómo defenderse de un Spyware.
+        p Si cree que su dispositivo está infectado con <em>spyware</em>, realice un análisis con su <em>software</em> de seguridad actual para asegurarse de que ha limpiado todo lo que puede. A continuación, descargue y ejecute una herramienta de eliminación de virus, como el Norton Power Eraser gratuito.
+        p También existen otras herramientas de eliminación de <em>software</em> espía de buena reputación. Algunas de ellas sólo funcionan cuando se inicia manualmente el análisis. Otras supervisan continuamente el equipo para asegurarse de que el <em>spyware</em> no pueda modificar o supervisar su información
+        p A continuación, revise cómo defenderse de un <em>spyware</em>.
       .col-lg-4.mb-5
         img(src='@/assets/curso/tema5/img14.svg')
       .col-lg-8
         img(src='@/assets/curso/tema5/img15.svg')
 
-    p.mb-5 Estos son los cuatro pasos principales para ayudar a prevenir el spyware.
+    p.mb-5 Estos son los cuatro pasos principales para ayudar a prevenir el <em>spyware</em>.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.mb-5
@@ -142,7 +142,7 @@
       .col-lg-10.mb-5
         .row.BG06.justify-content-center.align-items-center.p-4
           .col-8
-            p El spyware puede ser dañino, pero puede ser eliminado y prevenido si se es cauteloso y se utiliza una herramienta antivirus, si has sido infectado con spyware, tome medidas para eliminarlo, sea proactivo cambiando sus contraseñas y notificando a su banco para que esté atento a las actividades fraudulentas.
+            p El <em>spyware</em> puede ser dañino, pero puede ser eliminado y prevenido si se es cauteloso y se utiliza una herramienta antivirus, si has sido infectado con <em>spyware</em>, tome medidas para eliminarlo, sea proactivo cambiando sus contraseñas y notificando a su banco para que esté atento a las actividades fraudulentas.
           .col-3
             img(src='@/assets/curso/tema5/img20.svg') 
 
