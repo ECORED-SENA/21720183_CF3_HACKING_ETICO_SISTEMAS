@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido(data-aos="fade-right")
+    .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 1
       h1 Análisis de vulnerabilidades
@@ -26,7 +26,7 @@
       h5 Figura 1
       p.mb-0 Escaneos de vulnerabilidad y pruebas de penetración
 
-    figure.mb-5(data-aos="fade-right")
+    figure.mb-5
       img(src='@/assets/curso/tema1/img03.svg') 
 
     .row.justify-content-center.mb-5
@@ -69,7 +69,7 @@
           img(src='@/assets/curso/tema1/img09.svg') 
         .col-lg-5.BG01.p-4        
           p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de host que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows</em>, Linux, BSD y Mac
-          . 
+          
       .row.justify-content-center.mb-2.p-0
         .col-lg-10.p-0
           p  Nmap es una herramienta muy común y poderosa, y está disponible tanto para la interfaz de línea de comandos como para la interfaz gráfica de usuario. Puede utilizarse para:
@@ -234,7 +234,7 @@
             p.mb-0 Comúnmente, los falsos positivos en la exploración de vulnerabilidades ocurren cuando el explorador puede acceder solo a un subconjunto de la información requerida, lo que le impide determinar con precisión si existe una vulnerabilidad. Para ayudar a reducir el número de falsos positivos, se deben configurar sus escáneres con las credenciales adecuadas, estos necesitan acceder a toda la información requerida de los activos para que pueda determinar con precisión si existe una vulnerabilidad, tanto si se utiliza una herramienta de exploración de vulnerabilidades como si se utiliza otra forma de identificación de vulnerabilidades. Existen dos tipos de errores que hay que tener en cuenta:
 
     .row.mb-5 
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-6
         .tarjeta-numerada.color-primario.p-5
           .tarjeta-numerada__numero
             .h2 1

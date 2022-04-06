@@ -9,8 +9,8 @@
     .BGIMG04.p-5
       br
       .row.justify-content-center.align-items-center.mb-5.p-0
-        .col-lg-5.mb-5.p-5
-          img(src='@/assets/curso/tema2/img02.svg')(data-aos="fade-right")
+        .col-lg-5.mb-5.p-5(data-aos="fade-right")
+          img(src='@/assets/curso/tema2/img02.svg')
         .col-lg-5.p-0.mb-5
           p La escalada de privilegios es la explotación de un error de programación, una vulnerabilidad, un fallo de diseño, la supervisión de la configuración o el control de acceso en un sistema operativo o una aplicación para obtener un acceso no autorizado a recursos que suelen estar restringidos de la aplicación o el usuario.
           p Esto da lugar a que la aplicación o el usuario tenga más privilegios de los previstos por el desarrollador o el administrador del sistema, lo que permite a los atacantes acceder a datos confidenciales, instalar programas malignos y lanzar otros ataques cibernéticos. En palabras simples, significa obtener privilegios para acceder a algo que no debería ser accesible, como se muestra en la siguiente figura.
