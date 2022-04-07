@@ -9,7 +9,7 @@
 
     .BGIMG12.p-3
       figure  
-        img(src='@/assets/curso/tema4/img01.svg').mb-5
+        img(src='@/assets/curso/tema4/img01.png').mb-5
       .row.justify-content-center.mb-5
         .col-lg-10
           p Al igual que los dispositivos e infraestructuras de los diferentes sistemas, la interconexión de redes es cada vez más versátil, el uso de canales digitales hace que piratas informáticos estén al acecho de realizar ataques. Existen diferentes técnicas que pueden servir para identificar las vulnerabilidades de las redes y poder tomar las medidas necesarias para protegerlas; apropiarse de estos conocimientos logrará que la infraestructura sea menos vulnerable y esté seguro de la información que por las redes circula.
@@ -50,7 +50,7 @@
             p El <em>software</em> de <em>"sniffing"</em> ajusta la configuración de la red de un ordenador para que "huela" cada paquete - en lugar de solo los que se le envían - y los copia todos para su posterior investigación, en lugar de abrir la puerta sólo cuando alguien viene de visita, el <em>sniffer</em> se pega a la ventana, observando todos los coches mientras pasan.
             p El  <em>sniffer</em> de la ventana puede monitorear obsesivamente cada auto, o puede elegir investigar sólo los camiones, o los autos rojos, o los autos con al menos tres ocupantes, o tal vez solo las motocicletas, en otras palabras, una persona que usa un <em>sniffer</em> en modo no filtrado puede recoger todo el tráfico de la red, o puede configurar el <em>sniffer</em> para filtrar paquetes que contengan un tipo específico de datos.
         .col.lg-4.mb-4
-          img.img05(src='@/assets/curso/tema4/img05.svg') 
+          img.img05(src='@/assets/curso/tema4/img05.png') 
       .row.justify-content-center.mb-5
         .col-lg-10.mb-4
           .titulo-sexto.color-acento-contenido
@@ -91,7 +91,7 @@
             .col-11.p-4
               p En la parte superior de la pila de capas del Modelo de Referencia OSI, encuentras la capa de Aplicación que es implementada por las aplicaciones de la red, estas aplicaciones producen los datos, que deben ser transferidos a través de la red, esta capa también sirve como ventana para que los servicios de aplicación accedan a la red y para mostrar la información recibida al usuario, la capa de aplicaciones también se llama capa de escritorio. Ejemplo: Aplicación - Navegadores, Skype Messenger, etc.
       .col-lg-4.p-0
-        img(src='@/assets/curso/tema4/img07.svg')  
+        img(src='@/assets/curso/tema4/img07.png')  
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -174,21 +174,21 @@
                 .lista-candado
                 | A continuación, eche un vistazo a todos los ordenadores y dispositivos conectados a la red Asegúrese de que se han cuidado los aspectos básicos, como las actualizaciones del sistema operativo y de los controladores, que el cortafuegos personal está activo, que el antivirus se ejecuta y actualiza y que se establecen las contraseñas.
           .col-lg-4
-            img(src='@/assets/curso/tema4/img14.svg')
+            img(src='@/assets/curso/tema4/img14.png')
         .row.justify-content-center.align-items-center.p-5
           .col-lg-7
             h4 Asegurar físicamente la red
             p Aunque a menudo se pasa por alto o se minimiza, la seguridad física de la red puede ser tan crucial como, por ejemplo, el firewall de cara a Internet, así como necesita protegerse contra los delincuentes, los <em>bots</em> y los virus, también necesita protegerse contra las amenazas locales Sin una fuerte seguridad física de su edificio y su red, un pirata informático cercano o incluso un empleado podría aprovecharse de ello.
             p Asegúrese de tener un buen plan de seguridad para el edificio, para intentar evitar que entren personas ajenas, luego asegúrese que todos los armarios de cableado y/u otros lugares donde se colocan los componentes de la infraestructura de la red estén físicamente protegidos tanto del público como de los empleados, utilice cerraduras de puertas y gabinetes y verifique que el cableado Ethernet esté fuera de la vista y no sea fácilmente accesible lo mismo con los puntos de acceso inalámbrico. Desconecte los puertos Ethernet no utilizados, físicamente o mediante la configuración de un conmutador/enrutador, especialmente los que se encuentran en las zonas públicas del edificio.
           .col-lg-4
-            img(src='@/assets/curso/tema4/img15.svg')
+            img(src='@/assets/curso/tema4/img15.png')
         .row.justify-content-center.align-items-center.p-5
           .col-lg-7
             h4 Considere el filtrado de direcciones MAC
             p Un importante problema de seguridad del lado cableado de la red es la falta de un método de autenticación y/o cifrado rápido y fácil la gente puede simplemente conectarse y utilizar la red En el lado inalámbrico tienes al menos WPA 2 Personal (PSK) que es fácil de desplegar.
             p Aunque el filtrado de direcciones MAC puede ser evitado por un pirata informático determinado, puede servir como la primera capa de seguridad, no detendrá completamente a un pirata informático, pero puede ayudarle a evitar que un empleado, por ejemplo, cause un agujero de seguridad potencialmente grave, como permitir que un huésped se conecte a la red privada También puede darle más control sobre qué dispositivos están en la red, pero no permita que le dé una falsa sensación de seguridad, y esté preparado para mantener actualizada la lista de direcciones MAC aprobadas.
           .col-lg-4
-            img(src='@/assets/curso/tema4/img16.svg')
+            img(src='@/assets/curso/tema4/img16.png')
         .row.justify-content-center.align-items-center.p-5
           .col-lg-7
             h4 Usar VPNs para cifrar ciertos PCs o servidores
@@ -207,7 +207,7 @@
             p También puede cifrar una red entera, una opción es IPsec Un servidor <em>Windows</em> puede servir como servidor IPsec y la capacidad del cliente es soportada nativamente por <em>Windows</em> también, sin embargo, el proceso de encriptación puede ser una carga bastante pesada para la red las tasas de rendimiento efectivas pueden caer dramáticamente.
             p También existen soluciones de encriptación de red patentadas de los proveedores de redes, muchos de los cuales utilizan un enfoque de Capa 2 en lugar de la Capa 3 como el IPsec para ayudar a reducir la latencia y los gastos generales.
           .col-lg-4
-            img(src='@/assets/curso/tema4/img18.svg')
+            img(src='@/assets/curso/tema4/img18.png')
     separador
 
           

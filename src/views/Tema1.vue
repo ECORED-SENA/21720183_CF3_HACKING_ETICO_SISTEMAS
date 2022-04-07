@@ -42,7 +42,7 @@
         p Existen varias formas de realizar análisis de vulnerabilidades, pero una de las más comunes es a través de un <em>software</em> de exploración de vulnerabilidades automatizado, estas herramientas utilizan bases de datos de vulnerabilidades conocidas para identificar posibles fallos en sus redes, aplicaciones, contenedores, sistemas, datos, <em>hardware</em> y más, la herramienta de análisis de vulnerabilidades escaneará exhaustivamente cada aspecto de su tecnología, una vez que se completen los escaneos, la herramienta informará sobre todos los problemas descubiertos y sugerirá acciones para eliminar las amenazas.
         p Las herramientas más completas pueden ofrecer una visión de la seguridad y el impacto operativo de la reparación de un riesgo, en comparación con la aceptación del riesgo, los datos de escaneo de vulnerabilidades también pueden ser integrados en un SIEM junto con otros datos para un análisis de amenazas aún más holístico.
       .col-lg-5
-        img(src='@/assets/curso/tema1/img05.svg') 
+        img(src='@/assets/curso/tema1/img05.png') 
     separador
   
     .titulo-segundo.color-acento-contenido
@@ -59,7 +59,7 @@
               p Hay varios tipos de escáneres de vulnerabilidades, autenticados, en los que se realizan pruebas y ataques potenciales desde la propia red, y no autenticados, en los que el investigador o hacker ético se intenta hacer pasar por un pirata informático simulando un ataque desde fuera para ver hasta dónde es capaz de llegar analizando posibles vulnerabilidades.
               p Existe un gran número de herramientas de este tipo, tanto comerciales como de código abierto, y todas estas herramientas tienen sus propios puntos fuertes y débiles, si está interesado en la eficacia de las herramientas DAST, consulte el proyecto OWASP <em>Benchmark</em>, que mide científicamente la eficacia de todos los tipos de herramientas de detección de vulnerabilidades, incluidas las DAST.
         .col-lg-6
-          img(src='@/assets/curso/tema1/img07.svg') 
+          img(src='@/assets/curso/tema1/img07.png') 
 
       .row.align-items-center.mb-4
         .col-lg-3
@@ -68,7 +68,7 @@
         .col-lg-7.p-0
           img(src='@/assets/curso/tema1/img09.svg') 
         .col-lg-5.BG01.p-4        
-          p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de host que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows</em>, Linux, BSD y Mac
+          p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de host que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows</em>, Linux, BSD y Mac.
           
       .row.justify-content-center.mb-2.p-0
         .col-lg-10.p-0
@@ -195,7 +195,7 @@
             p Puede elevar aún más sus sistemas de seguridad utilizando herramientas de análisis de configuración y construcción automática, que sirven como una ventaja significativa para un SOC o NOC, utilizar estas herramientas para analizar la configuración de su sistema, en detalle y a velocidad - implica que puede encontrar y cerrar las vulnerabilidades explotables que las soluciones basadas en la monitorización o el análisis se perderían.
           .col-md-3
             figure
-              img(src='@/assets/curso/tema1/img24.svg')
+              img(src='@/assets/curso/tema1/img24.png')
       p.mb-4 En la siguiente infografía se puede revisar el proceso de análisis de vulnerabilidades a través de la herramienta Nipper.
 
     ImagenInfografica.color-secundario.mb-5
@@ -256,7 +256,7 @@
         p Si las primeras 20 variantes son falsos positivos, el probador de penetración asume que todas las demás son falsos positivos e ignora todas las demás; al hacerlo, hay posibilidades que las vulnerabilidades reales de las aplicaciones <em>web</em> no sean detectadas, por eso es crucial comprobar cada vulnerabilidad y tratar cada falso positivo por separado para asegurar los falsos positivos.
         p La mayoría de los proveedores de escáneres dedican un esfuerzo considerable a mejorar continuamente la calidad de sus algoritmos de comparación y a añadir nuevas capas de comprobaciones cruzadas que buscan mejorar el nivel de certeza de cualquier informe de vulnerabilidad, aunque este enfoque proporciona ganancias incrementales en la precisión de los informes, no aborda el problema subyacente que una vulnerabilidad de seguridad solo puede confirmarse absolutamente si se explota con éxito. Cualquier cantidad de retoques en las firmas y algoritmos de concordancia es, en efecto, un mero adorno, ya que el único mecanismo 100 fiable para confirmar una vulnerabilidad es la explotación.
       .col-lg-5.p-0
-        img(src='@/assets/curso/tema1/img30.svg')
+        img(src='@/assets/curso/tema1/img30.png')
 
 
     separador

@@ -8,7 +8,7 @@
       h1 Ataques a dispositivos
     .BGIMG06.p-3  
       figure.p-3.mb-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img02.svg') 
+        img(src='@/assets/curso/tema3/img02.png') 
 
       .row.justify-content-center.mb-5
         .col-lg-10

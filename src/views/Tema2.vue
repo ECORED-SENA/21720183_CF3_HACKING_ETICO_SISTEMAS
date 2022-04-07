@@ -88,7 +88,7 @@
         .tarjeta.tarjeta-flip.BG05(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img12.svg')})`}")
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img12.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4 Aplicar políticas de contraseñas
               p Una de las formas más simples de mejorar la seguridad es hacer cumplir las contraseñas seguras. No reutilice las contraseñas, ya que pueden quedar expuestas en grandes violaciones de datos.  Consulte nuestra guía sobre cómo crear contraseñas seguras e invierta en una herramienta para controlar continuamente las credenciales filtradas. 
@@ -96,7 +96,7 @@
         .tarjeta.tarjeta-flip.BG05(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img13.svg')})`}")
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img13.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4 Crear usuarios y grupos especializados con los mínimos privilegios necesarios y acceso a los archivos
               p El principio del mínimo privilegio en un contexto de seguridad se refiere a proporcionar a los usuarios normales solo el conjunto de privilegios que necesitan para hacer su trabajo y nada más. Lea nuestra guía sobre control de acceso para más información. Aunque es conveniente dar a cada usuario el mismo nivel de acceso a todos los recursos, proporciona a los atacantes un único punto de entrada a su organización, es mucho más seguro emplear la defensa en profundidad a través de sus esfuerzos de seguridad de datos, seguridad de la información y seguridad de la red.
@@ -104,7 +104,7 @@
         .tarjeta.tarjeta-flip.BG05(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img14.svg')})`}")
+            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img14.png')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4 Invierta en formación de concienciación sobre ciberseguridad
               p Incluso si su organización tiene una política de contraseñas sólida y aplicada, los ataques de ingeniería social como el <em>phishing</em> y el <em>spear phishing</em> pueden hacer que los ciberdelincuentes accedan a sus sistemas sensibles. Eduque a sus empleados y a los proveedores de terceros sobre las amenazas cibernéticas comunes y cómo evitarlas. Habilite la DMARC para evitar el <em>spoofing</em> de correo electrónico y comprar posibles dominios de tipografía.
