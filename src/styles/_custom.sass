@@ -88,6 +88,11 @@
 .BG04
   background-color: #FFD8E3
   border-radius: 15px
+  border-top: 2px solid #DDDCDF
+  border-right: 1px solid #DDDCDF
+  border-left: 1px solid #DDDCDF
+  border-bottom: 6px solid #DDDCDF
+  border-radius: 20px
 
 .BG05
   background: linear-gradient(to bottom,#E9DDFD,#E4FCFC)
@@ -118,6 +123,23 @@
   border-bottom: 6px solid #EAEAEA
   border-radius: 20px
 
+.BG11
+  background-color: #fff
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+
+.BG12
+  background-color: #fff
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+.BG13
+  background-color: #fff
+
+.BG14
+  background-color: #D2B7FF
+  border-radius: 25px
+
 .img01
   position: relative
   top: -100px
@@ -136,6 +158,14 @@
   right: 260px
   max-width: 300%
   width: 270%
+
+@media screen and (max-width: 767px) and (min-width: 0px)
+  .img04
+    position: relative
+    right: 10px
+   
+  
+
 
 .img05
   position: relative
@@ -193,3 +223,17 @@ ol.lista-candado
 
 .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: #E7DEFC
+
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #E7DEFC
+
+@media (max-width: 767px)
+  .bloque-texto-g__texto 
+    right: 50px
+    
+.tarjeta-avatar-b__img
+  min-width: 12%
+  max-width: 12%
+
+.tarjeta-avatar-b .tarjeta
+  height: 88px

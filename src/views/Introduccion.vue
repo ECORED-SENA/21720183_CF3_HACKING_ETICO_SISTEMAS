@@ -10,8 +10,8 @@
       h1 Introducción
 
     .row.mb-5(data-aos="fade-right")
-      .col-lg-7.px-4
-        p.mb-2 En el mundo digital de hoy, se encuentra con gran cantidad de información al alcance de su mano, la cual se ha convertido en uno de los activos más importantes para una persona u organización. Con el uso de las tecnologías de información y comunicación y su avance tan vertiginoso, aparecen agentes tanto internos como externos que pueden poner en riesgo los sistemas de información y los datos que se pueden almacenar al igual que la infraestructura tecnológica donde se encuentran, es por ello que el hacking ético se ha convertido en una herramienta de gestión para poder salvaguardar los datos. Observe el siguiente recurso que amplía esta introducción. Bienvenido.
+      .col-lg-7.mb-3.px-4
+        p.mb-3 En el mundo digital de hoy, se encuentra con gran cantidad de información al alcance de su mano, la cual se ha convertido en uno de los activos más importantes para una persona u organización. Con el uso de las tecnologías de información y comunicación y su avance tan vertiginoso, aparecen agentes tanto internos como externos que pueden poner en riesgo los sistemas de información y los datos que se pueden almacenar al igual que la infraestructura tecnológica donde se encuentran, es por ello que el hacking ético se ha convertido en una herramienta de gestión para poder salvaguardar los datos. Observe el siguiente recurso que amplía esta introducción. Bienvenido.
         figure
           img(src="@/assets/curso/introduccion/img04.png") 
       .col-lg-5.p-3
