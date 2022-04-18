@@ -15,7 +15,7 @@
         img(src='@/assets/curso/tema1/img01.png')
       .col-lg-10.mb-4(data-aos="fade-right")
         .cajon.color-primario
-          .row.align-items-center.p-3
+          .row.justify-content-center.align-items-center.p-3
             .col-9
               p Tanto la prueba de penetración (también llamada "prueba del bolígrafo") como la exploración de vulnerabilidades son exigidas por la <b>Norma de Seguridad de Datos de la Industria de las Tarjetas de Pago (PCI DSS)</b>, pero a menudo hay confusión sobre las diferencias entre los dos.
             .col-2
@@ -101,7 +101,7 @@
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p.mb-0 <em>Nessus</em> es una herramienta de escaneo de seguridad remota, que escanea un ordenador y emite una alerta si descubre alguna vulnerabilidad que los hackers maliciosos podrían utilizar para obtener acceso a cualquier ordenador que se haya conectado a una red, todo esto lo logra ejecutando más de 1200 chequeos en una computadora dada, probando para ver si alguno de estos ataques podría ser usado para irrumpir en la computadora o dañarla de alguna manera.
+        p.mb-2 <em>Nessus</em> es una herramienta de escaneo de seguridad remota, que escanea un ordenador y emite una alerta si descubre alguna vulnerabilidad que los hackers maliciosos podrían utilizar para obtener acceso a cualquier ordenador que se haya conectado a una red, todo esto lo logra ejecutando más de 1200 chequeos en una computadora dada, probando para ver si alguno de estos ataques podría ser usado para irrumpir en la computadora o dañarla de alguna manera.
         .row.BG02.justify-content-center
           .col-11.py-3
             p Si usted es un administrador a cargo de cualquier computadora (o grupo de computadoras) conectada a Internet, <em>Nessus</em> es una gran herramienta que ayuda a mantener sus dominios libres de las fáciles vulnerabilidades que los hackers y virus comúnmente buscan explotar. 
@@ -216,39 +216,39 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2.mb-3 1.2	Falsos positivos
 
-      .row.justify-content-center
-        .col-lg-10(data-aos="fade-right")
-          .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-            .bloque-texto-g__img(
-              :style="{'background-image': `url(${require('@/assets/curso/tema1/img27.png')})`}"
-            )
-            .bloque-texto-g__texto.p-4
-              p.mb-0 Comúnmente, los falsos positivos en la exploración de vulnerabilidades ocurren cuando el explorador puede acceder solo a un subconjunto de la información requerida, lo que le impide determinar con precisión si existe una vulnerabilidad. Para ayudar a reducir el número de falsos positivos, se deben configurar sus escáneres con las credenciales adecuadas, estos necesitan acceder a toda la información requerida de los activos para que pueda determinar con precisión si existe una vulnerabilidad, tanto si se utiliza una herramienta de exploración de vulnerabilidades como si se utiliza otra forma de identificación de vulnerabilidades. Existen dos tipos de errores que hay que tener en cuenta:
+    .row.justify-content-center
+      .col-lg-10(data-aos="fade-right")
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema1/img27.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Comúnmente, los falsos positivos en la exploración de vulnerabilidades ocurren cuando el explorador puede acceder solo a un subconjunto de la información requerida, lo que le impide determinar con precisión si existe una vulnerabilidad. Para ayudar a reducir el número de falsos positivos, se deben configurar sus escáneres con las credenciales adecuadas, estos necesitan acceder a toda la información requerida de los activos para que pueda determinar con precisión si existe una vulnerabilidad, tanto si se utiliza una herramienta de exploración de vulnerabilidades como si se utiliza otra forma de identificación de vulnerabilidades. Existen dos tipos de errores que hay que tener en cuenta:
 
-      .row.mb-5 
-        .col-lg-6.mb-5(data-aos="fade-right")
-          .tarjeta-numerada.color-primario.p-5
-            .tarjeta-numerada__numero
-              .h2 1
-            p <b>Error de tipo I - falso positivo</b>, un resultado que indica que una vulnerabilidad está presente cuando no lo está, esto crea ruido y resulta en un trabajo de remediación innecesario.
-        .col-lg-6(data-aos="fade-left") 
-          .tarjeta-numerada.color-secundario.p-5
-            .tarjeta-numerada__numero
-              .h2 2
-            br
-            p <b>Error de tipo II - falso negativo</b>, donde una vulnerabilidad está presente pero no está identificada.
+    .row.mb-5 
+      .col-lg-6.mb-5(data-aos="fade-right")
+        .tarjeta-numerada.color-primario.p-5
+          .tarjeta-numerada__numero
+            .h2 1
+          p <b>Error de tipo I - falso positivo</b>, un resultado que indica que una vulnerabilidad está presente cuando no lo está, esto crea ruido y resulta en un trabajo de remediación innecesario.
+      .col-lg-6(data-aos="fade-left") 
+        .tarjeta-numerada.color-secundario.p-5
+          .tarjeta-numerada__numero
+            .h2 2
+          br
+          p <b>Error de tipo II - falso negativo</b>, donde una vulnerabilidad está presente pero no está identificada.
 
-      p.mb-4 A continuación, se explica cuándo ocurre un falso positivo.
+    p.mb-4 A continuación, se explica cuándo ocurre un falso positivo.
 
-      .row.BGIMG03.mb-5
-        .col-lg-12.mb-4(data-aos="fade-right")
-          figure.p-5
-            img(src='@/assets/curso/tema1/img29.svg')
-        .col-lg-7.p-0(data-aos="fade-right")
-          p Si las primeras 20 variantes son falsos positivos, el probador de penetración asume que todas las demás son falsos positivos e ignora todas las demás; al hacerlo, hay posibilidades que las vulnerabilidades reales de las aplicaciones <em>web</em> no sean detectadas, por eso es crucial comprobar cada vulnerabilidad y tratar cada falso positivo por separado para asegurar los falsos positivos.
-          p La mayoría de los proveedores de escáneres dedican un esfuerzo considerable a mejorar continuamente la calidad de sus algoritmos de comparación y a añadir nuevas capas de comprobaciones cruzadas que buscan mejorar el nivel de certeza de cualquier informe de vulnerabilidad, aunque este enfoque proporciona ganancias incrementales en la precisión de los informes, no aborda el problema subyacente que una vulnerabilidad de seguridad solo puede confirmarse absolutamente si se explota con éxito. Cualquier cantidad de retoques en las firmas y algoritmos de concordancia es, en efecto, un mero adorno, ya que el único mecanismo 100 fiable para confirmar una vulnerabilidad es la explotación.
-        .col-lg-5.p-0(data-aos="fade-left")
-          img(src='@/assets/curso/tema1/img30.png')
+    .row.BGIMG03.mb-5
+      .col-lg-12.mb-4(data-aos="fade-right")
+        figure.p-5
+          img(src='@/assets/curso/tema1/img29.svg')
+      .col-lg-7.p-0(data-aos="fade-right")
+        p Si las primeras 20 variantes son falsos positivos, el probador de penetración asume que todas las demás son falsos positivos e ignora todas las demás; al hacerlo, hay posibilidades que las vulnerabilidades reales de las aplicaciones <em>web</em> no sean detectadas, por eso es crucial comprobar cada vulnerabilidad y tratar cada falso positivo por separado para asegurar los falsos positivos.
+        p La mayoría de los proveedores de escáneres dedican un esfuerzo considerable a mejorar continuamente la calidad de sus algoritmos de comparación y a añadir nuevas capas de comprobaciones cruzadas que buscan mejorar el nivel de certeza de cualquier informe de vulnerabilidad, aunque este enfoque proporciona ganancias incrementales en la precisión de los informes, no aborda el problema subyacente que una vulnerabilidad de seguridad solo puede confirmarse absolutamente si se explota con éxito. Cualquier cantidad de retoques en las firmas y algoritmos de concordancia es, en efecto, un mero adorno, ya que el único mecanismo 100 fiable para confirmar una vulnerabilidad es la explotación.
+      .col-lg-5.p-0(data-aos="fade-left")
+        img(src='@/assets/curso/tema1/img30.png')
 
 
 </template>
