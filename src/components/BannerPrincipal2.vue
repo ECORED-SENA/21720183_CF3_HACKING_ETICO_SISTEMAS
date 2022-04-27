@@ -5,7 +5,8 @@
   )
     .row.banner-principal__row.position-relative.justify-content-center.align-items-center
       .col-1
-      .col-5.py-5.banner-principal__info
+      .col-md-5.col-12.py-5.banner-principal__info.ps-4.ps-sm-5.py-4.py-sm-5
+
         .banner-principal__componente
           h1.mb-0(style="font-size: 2.63em" v-html="globalData.componenteFormativo")
         .col-lg-12
@@ -83,7 +84,7 @@ export default {
       line-height: 1.1em
 
       @media (max-width: $bp-max-xs)
-        font-size: 2em
+        font-size: 2em !important
 
   &__descripcion
     margin-bottom: 20px
