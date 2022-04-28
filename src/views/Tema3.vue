@@ -352,7 +352,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3	Contramedidas
 
-  .container.BGIMG12.px-4.pt-4.pt-md-4.px-md-5.mb-5
+  .container.BGIMG12.px-4.pt-4.pt-md-4.px-md-5
     p.mb-5 Dentro de las contramedidas para poder defenderse del crackeo de contraseñas, se debe de tener en cuenta las siguientes consideraciones:
     .row.justify-content-center
       .col-lg-10.mb-4(data-aos="fade-right")
