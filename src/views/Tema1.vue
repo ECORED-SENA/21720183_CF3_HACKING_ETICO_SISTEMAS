@@ -58,7 +58,7 @@
           .col-12.mb-4(data-aos="fade-right")
             img(src="@/assets/curso/introduccion/img04.png")             
           .col-12
-            p Hay varios tipos de escáneres de vulnerabilidades, autenticados, en los que se realizan pruebas y ataques potenciales desde la propia red, y no autenticados, en los que el investigador o hacker ético se intenta hacer pasar por un pirata informático simulando un ataque desde fuera para ver hasta dónde es capaz de llegar analizando posibles vulnerabilidades.
+            p Hay varios tipos de escáneres de vulnerabilidades, autenticados, en los que se realizan pruebas y ataques potenciales desde la propia red, y no autenticados, en los que el investigador o <em>hacker</em> ético se intenta hacer pasar por un pirata informático simulando un ataque desde fuera para ver hasta dónde es capaz de llegar analizando posibles vulnerabilidades.
             p Existe un gran número de herramientas de este tipo, tanto comerciales como de código abierto, y todas estas herramientas tienen sus propios puntos fuertes y débiles, si está interesado en la eficacia de las herramientas DAST, consulte el proyecto OWASP <em>Benchmark</em>, que mide científicamente la eficacia de todos los tipos de herramientas de detección de vulnerabilidades, incluidas las DAST.
       .col-lg-6(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img07.png') 
@@ -69,7 +69,7 @@
       .col-lg-7.p-0
         img(src='@/assets/curso/tema1/img09.svg')        
       .col-lg-5.BG01.p-4      
-        p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de host que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows</em>, Linux, BSD y Mac.
+        p <em>Network Mapped</em> (Nmap) es una herramienta de escaneo de red y detección de <em>host</em> que es muy útil durante varios pasos de las pruebas de penetración. Nmap no se limita a la mera recopilación de información y enumeración, sino que también es una poderosa utilidad que puede utilizarse como detector de vulnerabilidades o escáner de seguridad. Así que Nmap es una herramienta multipropósito, y puede ser ejecutada en muchos sistemas operativos diferentes, incluyendo <em>Windows</em>, Linux, BSD y Mac.
         
     .row.justify-content-center.mb-2.p-0
       .col-lg-10.p-0(data-aos="fade-right")
@@ -82,7 +82,7 @@
             | Detectar el anfitrión vivo en la red (descubrimiento de anfitrión)
           li
             .lista-candado
-            | Detectar los puertos abiertos en el host (descubrimiento o enumeración de puertos)
+            | Detectar los puertos abiertos en el <em>host</em> (descubrimiento o enumeración de puertos)
           li
             .lista-candado
             | Detectar el <em>software</em> y la versión del puerto respectivo (descubrimiento de servicio)
@@ -163,7 +163,7 @@
               figure
                 img(src='@/assets/curso/tema1/img20.svg')
             .col-md-9.col-8.mb-4.mb-md-0
-              p Debe asegurarse que no hay vulnerabilidades en él que puedan ser usadas por un hacker para llevar a cabo un ataque malicioso. 
+              p Debe asegurarse que no hay vulnerabilidades en él que puedan ser usadas por un <em>hacker</em> para llevar a cabo un ataque malicioso. 
 
     p.mb-4 <em>Nessus</em> es llamado un "scanner remoto" porque no necesita ser instalado en una computadora para que pueda probar esa computadora, en su lugar, puede instalarlo en un solo ordenador y probar tantos ordenadores como desee.
 

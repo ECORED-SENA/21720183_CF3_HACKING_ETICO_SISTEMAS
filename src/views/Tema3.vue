@@ -12,7 +12,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
-        p En los últimos tiempos, donde el mundo digital se ha acrecentado de manera exponencial, los ataques a dispositivos son cada vez más frecuentes, la tendencia es que tanto la adquisición como su uso de duplique en poco tiempo, es por ello que los ciberdelincuentes aprovechan esto para poder realizar ataques de diferente índole, es por ello que es perentorio conocer dentro del hacking ético las diferentes formas de ataques que se pueden realizar para poder salvaguardar su información.
+        p En los últimos tiempos, donde el mundo digital se ha acrecentado de manera exponencial, los ataques a dispositivos son cada vez más frecuentes, la tendencia es que tanto la adquisición como su uso de duplique en poco tiempo, es por ello que los ciberdelincuentes aprovechan esto para poder realizar ataques de diferente índole, es por ello que es perentorio conocer dentro del <em>hacking</em> ético las diferentes formas de ataques que se pueden realizar para poder salvaguardar su información.
     separador 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 3.1	Conceptos y tipo de ataques
@@ -35,7 +35,7 @@
         .row.justify-content-center.align-items-center.p-5
           .col-lg-7
             h4 Cómo se utiliza
-            p.mb-0 En este tipo de ataque se utilizan una serie de palabras para descubrir los nombres de usuario y/o contraseñas de acceso a un portal web o formulario.
+            p.mb-0 En este tipo de ataque se utilizan una serie de palabras para descubrir los nombres de usuario y/o contraseñas de acceso a un portal <em>web</em> o formulario.
             p.mb-0 La mayoría de personas anteriormente por facilidad de recordar la contraseña utilizaba palabras o nombres de su lengua.
             p Cabe resaltar que en sitios que utilicen contraseñas robustas los ataques de diccionario pierden efectividad.
           .col-lg-3
@@ -63,12 +63,12 @@
       .col-lg-10.mb-5(data-aos="fade-right")
         .row.BG06.justify-content-center.align-items-center.p-4
           .col-7
-            p Un ataque de fuerza bruta utiliza el método de prueba y error para adivinar la información de acceso, las claves de cifrado o encontrar una página web oculta, los hackers trabajan con todas las combinaciones posibles esperando adivinar correctamente.
+            p Un ataque de fuerza bruta utiliza el método de prueba y error para adivinar la información de acceso, las claves de cifrado o encontrar una página <em>web</em> oculta, los <em>hackers</em> trabajan con todas las combinaciones posibles esperando adivinar correctamente.
             p Estos ataques se realizan mediante "fuerza bruta", lo que significa que utilizan intentos excesivamente fuertes para intentar "forzar" su entrada en su(s) cuenta(s) privada(s).
           .col-4
             img(src='@/assets/curso/tema3/img10.svg')
       .col-lg-10.mb-3(data-aos="fade-right")
-        p Este es un método de ataque antiguo, pero aún es efectivo y popular entre los hackers, porque, dependiendo de la longitud y complejidad de la contraseña, su crackeo puede llevar desde unos pocos segundos hasta muchos años. Es así como los ciberdelincuentes se benefician de los ataques de fuerza bruta:
+        p Este es un método de ataque antiguo, pero aún es efectivo y popular entre los <em>hackers</em>, porque, dependiendo de la longitud y complejidad de la contraseña, su crackeo puede llevar desde unos pocos segundos hasta muchos años. Es así como los ciberdelincuentes se benefician de los ataques de fuerza bruta:
       .col-lg-10.mb-5(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img11.svg')
 
@@ -90,7 +90,7 @@
           
           p.mb-5.text-small(numero="4" titulo="Ataques de fuerza bruta inversa") Tal y como su nombre indica, un ataque de fuerza bruta inversa invierte la estrategia de ataque empezando con una contraseña conocida, luego los ciberdelincuentes buscan millones de nombres de usuario hasta que encuentran una coincidencia, muchos de estos criminales empiezan con contraseñas filtradas que están disponibles en línea a partir de brechas de datos existentes. 
           
-          p.mb-5.text-small(numero="5" titulo="Relleno de credenciales") Si un ciberdelincuente tiene una combinación de nombre de usuario y contraseña que funciona para un sitio web, también lo intentará en muchos otros, como se sabe que los usuarios reutilizan la información de inicio de sesión en muchos sitios web, son el objetivo exclusivo de un ataque como este.
+          p.mb-5.text-small(numero="5" titulo="Relleno de credenciales") Si un ciberdelincuente tiene una combinación de nombre de usuario y contraseña que funciona para un sitio <em>web</em>, también lo intentará en muchos otros, como se sabe que los usuarios reutilizan la información de inicio de sesión en muchos sitios <em>web</em>, son el objetivo exclusivo de un ataque como este.
       .col-lg-3.col-md-6.col-6(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img12.svg')        
 
@@ -103,8 +103,8 @@
     .row.justify-content-center.mb-4
       .col-lg-10.mb-4(data-aos="fade-right")
         figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          .video 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/RIkWiIpr5Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .col-lg-12(data-aos="fade-right")
         p Existen malas prácticas de administración que facilitan mucho el trabajo a la hora de intentar acceder a un sistema Las contraseñas por defecto, son las contraseñas suministradas por los fabricantes cuando instalan un dispositivo o un servicio y que muchas veces los administradores de TI olvidan cambiar. Existen herramientas en línea que pueden utilizarse para buscar las contraseñas por defecto las cuales le pueden servir para realizar esta práctica:
     
@@ -129,7 +129,7 @@
     .row.align-items-center.mb-4
       .col-lg-7.p-0.mb-5(data-aos="fade-right")
         p Suponga que no tiene ningún bloqueo en las cuentas. ¿Hay alguna manera de lidiar con los ataques de fuerza bruta sin un bloqueo? Una política de contraseñas débil puede dar lugar a que entre en el sitio en tan solo 18 días si ya conoce el nombre de usuario de la cuenta.
-        p Primero, considere endurecer la política de contraseñas, supongamos que tiene una política de contraseñas que requiere 12 caracteres en mayúsculas y minúsculas que deben incluir tanto letras como números, los hackers tienen una probabilidad de 50:50 de entrar dentro de 6211 intentos, eso se traduce en unos 52 millones de millones de intentos.
+        p Primero, considere endurecer la política de contraseñas, supongamos que tiene una política de contraseñas que requiere 12 caracteres en mayúsculas y minúsculas que deben incluir tanto letras como números, los <em>hackers</em> tienen una probabilidad de 50:50 de entrar dentro de 6211 intentos, eso se traduce en unos 52 millones de millones de intentos.
       .col-lg-5.p-0.mb-5(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img20.png')
       .col-lg-12.mb-5(data-aos="fade-right")
@@ -143,7 +143,7 @@
       .col-lg-7(data-aos="fade-right")
         .cajon-b.color-primario.p-0
           p Una contraseña por defecto es una contraseña estándar preconfigurada para un dispositivo, estas contraseñas son la configuración predeterminada de muchos dispositivos y, si no se modifican, representan un grave riesgo para la seguridad.
-          p Los ejemplos típicos de contraseñas predeterminadas incluyen admin password e guest, además, un proveedor suele utilizar una sola contraseña predeterminada, que puede encontrarse fácilmente en línea mediante la búsqueda o en sitios web que ofrecen listas compiladas, las contraseñas predeterminadas se utilizan comúnmente para los enrutadores, puntos de acceso, conmutadores y cortafuegos.
+          p Los ejemplos típicos de contraseñas predeterminadas incluyen <em>admin password e guest</em>, además, un proveedor suele utilizar una sola contraseña predeterminada, que puede encontrarse fácilmente en línea mediante la búsqueda o en sitios <em>web</em> que ofrecen listas compiladas, las contraseñas predeterminadas se utilizan comúnmente para los enrutadores, puntos de acceso, conmutadores y cortafuegos.
       .col-lg-5.p-0(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img22.svg')
 
@@ -153,7 +153,7 @@
         img(src='@/assets/curso/tema3/img23.svg')
       .col-lg-7.mb-5(data-aos="fade-left")
         p También son comunes en los sistemas empotrados, los sistemas de control industrial (y las interfaces de terminales remotas como Telnet y SSH). Si no se modifican, las contraseñas por defecto proporcionan un fácil vector de ataque para el equipo de la red doméstica si el propietario también se conecta a una red corporativa, ese riesgo se extiende también a la empresa, un atacante que se conecta con éxito a un dispositivo es probable que tenga acceso a nivel administrativo.
-        p Una contraseña por defecto es una contraseña (normalmente "123", "admin", "root", "password", "blank", "secret" o "access") asignada a un programa o dispositivo de hardware por el desarrollador o fabricante, aunque las contraseñas predeterminadas pueden ayudar a protegerse de algunos usuarios, cualquiera que sepa lo que está haciendo puede adivinar una contraseña predeterminada.
+        p Una contraseña por defecto es una contraseña (normalmente "123", <em>"admin", "root", "password", "blank", "secret" o "access"</em>) asignada a un programa o dispositivo de <em>hardware</em> por el desarrollador o fabricante, aunque las contraseñas predeterminadas pueden ayudar a protegerse de algunos usuarios, cualquiera que sepa lo que está haciendo puede adivinar una contraseña predeterminada.
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
         .row.BG07.justify-content-center.align-items-center.p-4
@@ -177,7 +177,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 3.2	Herramientas y técnicas de ataques
 
-    p.mb-5 El mundo del hacking ético tiene múltiples posibilidades en el uso de herramientas, las cuales ayudan al atacante a encontrar contraseñas y explotar vulnerabilidades.
+    p.mb-5 El mundo del <em>hacking</em> ético tiene múltiples posibilidades en el uso de herramientas, las cuales ayudan al atacante a encontrar contraseñas y explotar vulnerabilidades.
 
     .row.align-items-center.mb-3
       .col-lg-5(data-aos="fade-right")
@@ -186,7 +186,7 @@
     .row.align-items-center.mb-4
       .col-lg-5.BG08.p-4.mb-5(data-aos="fade-right")
         p.mb-0 Están diseñadas para expertos forenses y organizaciones gubernamentales, servicios y corporaciones para la recuperación de datos. Está diseñada para descifrar las contraseñas más complejas y las claves de cifrado sólidas en plazos más cortos.
-        p Es una herramienta para la recuperación de contraseñas a docenas de formatos de archivo, documentos, claves y certificados en grupos de ordenadoras combinadas en una sola red de ordenadoras distribuida Elcomsoft Distributed Password Recovery, ofrece escalabilidad y es compatible con la aceleración por GPU para la recuperación más rápida.
+        p Es una herramienta para la recuperación de contraseñas a docenas de formatos de archivo, documentos, claves y certificados en grupos de ordenadoras combinadas en una sola red de ordenadoras distribuida <em>Elcomsoft Distributed Password Recovery</em>, ofrece escalabilidad y es compatible con la aceleración por GPU para la recuperación más rápida.
       .col-lg-7.px-0.py-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img28.png')
 
@@ -203,7 +203,7 @@
     LineaTiempoC.color-primario.mb-4(text-small)(data-aos="fade-right")
       .row.justify-content-center.align-items-center(titulo="1")
         .col-md-7.mb-4.mb-md-0
-          p <em>Windows</em> almacena y gestiona las cuentas locales de usuario y de grupo en un archivo de base de datos llamado Security Account Manager (SAM).      
+          p <em>Windows</em> almacena y gestiona las cuentas locales de usuario y de grupo en un archivo de base de datos llamado <em>Security Account Manager</em> (SAM).      
         .col-md-3
           figure.p-4
             img(src='@/assets/curso/tema3/img32.svg')
@@ -237,14 +237,18 @@
         img(src='@/assets/curso/tema3/img37.svg')
     .row.align-items-center
       .col-lg-5.p-2.mb-5(data-aos="fade-right")
-        p La base de datos SAM es la base de datos de información de cuentas de usuario y de grupo almacenada en un controlador de dominio en una red basada en Microsoft Windows Server. 
+        p La base de datos SAM es la base de datos de información de cuentas de usuario y de grupo almacenada en un controlador de dominio en una red basada en Microsoft Windows Server.
+       
       .col-lg-7.mb-5(data-aos="fade-left")
         .cajon.color-primario.px-3.pb-2.pt-4
           p La base de datos del Administrador de cuentas de seguridad (SAM) también se conoce como la base de datos del directorio de dominio, o a veces simplemente la base de datos del directorio.
+          
     
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5   
     .row.justify-content-center.mb-5
-      .col-lg-10(data-aos="fade-right")
+      .col-lg-5.p-2.mb-5(data-aos="fade-right")
+        p La base de datos SAM ocupa una parte del registro del sistema operativo Windows Server. Todas las cuentas de usuario, las cuentas de grupo y las definiciones de recursos como acciones e impresoras tienen sus principios de seguridad definidos en la base de datos SAM. Debido a que toda la base de datos SAM debe residir en la memoria RAM de un controlador de dominio, no puede exceder de unos 40 MB en Windows NT, lo que equivale a unas 40.000 cuentas de usuario, o 26.000 usuarios y estaciones de trabajo de Windows NT combinadas. 
+      .col-lg-7(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img38.svg')
       
     p.mb-0 La gráfica anterior muestra la enumeración del tamaño de los objetos comunes en una base de datos SAM.

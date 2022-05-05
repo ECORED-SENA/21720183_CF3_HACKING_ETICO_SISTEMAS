@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span.text-white 5
-      h1 Ataques con virus y malware
+      h1 Ataques con virus y <em>malware</em>
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-md-10.col-10(data-aos="fade-right")
@@ -14,13 +14,13 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img01.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Los ataques con virus y malware, más allá de convertirse en un serio problema, muchas veces son estrategias de los ciberdelincuentes para generar secuestro o pérdida de información, son de los más comunes que se observa en el mundo digital, estos se disfrazan de archivos que el sistema los cree nativos de sus sistema operativo y no son detectados, es así que debe de saber cómo operan y cuál es su cadena operativa para poder evitar que incurran en robo o pérdida de información importante para una organización.
+            p.mb-0 Los ataques con virus y <em>malware</em>, más allá de convertirse en un serio problema, muchas veces son estrategias de los ciberdelincuentes para generar secuestro o pérdida de información, son de los más comunes que se observa en el mundo digital, estos se disfrazan de archivos que el sistema los cree nativos de sus sistema operativo y no son detectados, es así que debe de saber cómo operan y cuál es su cadena operativa para poder evitar que incurran en robo o pérdida de información importante para una organización.
 
     #t_5_1.titulo-segundo.color-acento-contenido
         h2.mb-3 5.1	Conceptos y generalidades
 
   .container.BGIMG06.px-4.pt-4.pt-md-4.px-md-5 
-    p.mb-5 Dentro de los conceptos que se deben abordar con respecto a Ataques con Virus y malware, es el <em>spyware</em>, conozca acerca del mismo en el siguiente mapa:
+    p.mb-5 Dentro de los conceptos que se deben abordar con respecto a Ataques con Virus y <em>malware</em>, es el <em>spyware</em>, conozca acerca del mismo en el siguiente mapa:
     figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/tema5/img02.svg')
 
@@ -28,12 +28,12 @@
       .col-lg-10.mb-5(data-aos="fade-right")
         .row.BG06.justify-content-center.align-items-center.p-4
           .col-8
-            p Si alguna vez ha sido víctima de un robo de identidad o de un fraude con tarjetas de crédito, no está solo. Las estadísticas de los delitos cibernéticos cuentan la historia: un total de 978 millones de personas en 20 países se vieron afectadas por el crimen cibernético en 2017, según los resultados globales del informe Norton Cyber Security Insights Report, las víctimas de delitos cibernéticos en todo el mundo perdieron 172.000 millones de dólares, el <em>spyware</em> contribuyó a esas cifras.
+            p Si alguna vez ha sido víctima de un robo de identidad o de un fraude con tarjetas de crédito, no está solo. Las estadísticas de los delitos cibernéticos cuentan la historia: un total de 978 millones de personas en 20 países se vieron afectadas por el crimen cibernético en 2017, según los resultados globales del informe <em>Norton Cyber Security Insights Report</em>, las víctimas de delitos cibernéticos en todo el mundo perdieron 172.000 millones de dólares, el <em>spyware</em> contribuyó a esas cifras.
           .col-3
             img(src='@/assets/curso/tema5/img03.svg')
     separador
     #t_5_2.titulo-segundo.color-acento-contenido
-      h2.mb-3 5.2	Tipos de virus y malware
+      h2.mb-3 5.2	Tipos de virus y <em>malware</em>
 
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5 
     p.mb-0 El <em>software</em> espía es una de las amenazas más comunes en Internet. Puede infectar fácilmente su dispositivo y puede ser difícil de identificar. El <em>spyware</em> es una amenaza para las empresas y los usuarios individuales, ya que puede robar información confidencial y dañar su red.
@@ -46,7 +46,7 @@
           .row.justify-content-center.align-items-center
             .col-md-8.col-11
               h4 <em>Adware</em>
-              p Este tipo de <em>spyware</em> rastrea el historial de su navegador y sus descargas, con la intención de predecir qué productos o servicios le interesan. El adware mostrará anuncios de los mismos productos o servicios, o de productos o servicios relacionados, para atraerlo a hacer clic o a realizar una compra. El adware se utiliza con fines de marketing y puede ralentizar el equipo.
+              p Este tipo de <em>spyware</em> rastrea el historial de su navegador y sus descargas, con la intención de predecir qué productos o servicios le interesan. El <em>adware</em> mostrará anuncios de los mismos productos o servicios, o de productos o servicios relacionados, para atraerlo a hacer clic o a realizar una compra. El <em>adware</em> se utiliza con fines de <em>marketing</em> y puede ralentizar el equipo.
             .col-md-4.col-6
               figure
                 img(src='@/assets/curso/tema5/img05.svg')
@@ -56,11 +56,11 @@
                 img(src='@/assets/curso/tema5/img06.svg')
             .col-md-8.col-11.mb-4.mb-md-0
               h4 Troyano
-              p Este tipo de <em>software</em> malicioso se disfraza como <em>software</em> legítimo. Por ejemplo, los troyanos pueden parecer una actualización de Java o Flash Player al descargarse. El malware de los troyanos está controlado por terceros. Se puede utilizar para acceder a información confidencial como números de la Seguridad Social e información de tarjetas de crédito.
+              p Este tipo de <em>software</em> malicioso se disfraza como <em>software</em> legítimo. Por ejemplo, los troyanos pueden parecer una actualización de <em>Java o Flash Player</em> al descargarse. El <em>malware</em> de los troyanos está controlado por terceros. Se puede utilizar para acceder a información confidencial como números de la Seguridad Social e información de tarjetas de crédito.
           .row.justify-content-center.align-items-center
             .col-md-8.col-11.mb-4.mb-md-0
-              h4 Cookies de rastreo
-              p Estas rastrean las actividades web del usuario, como búsquedas, historial y descargas, con fines de marketing.
+              h4 <em>Cookies</em> de rastreo
+              p Estas rastrean las actividades web del usuario, como búsquedas, historial y descargas, con fines de <em>marketing</em>.
             .col-md-4.col-6
               figure
                 img(src='@/assets/curso/tema5/img07.svg')
@@ -74,7 +74,7 @@
           .row.justify-content-center.align-items-center
             .col-md-8.col-11.mb-4.mb-md-0
               h4 <em>Rootkits</em>
-              p Los <em>rootkits</em> son un tipo de malware diseñado para que puedan permanecer ocultos en el equipo. Pero, aunque no los notes, están activos. Los rootkits permiten a los ciberdelincuentes controlar el equipo de forma remota.
+              p Los <em>rootkits</em> son un tipo de <em>malware</em> diseñado para que puedan permanecer ocultos en el equipo. Pero, aunque no los notes, están activos. Los <em>rootkits</em> permiten a los ciberdelincuentes controlar el equipo de forma remota.
             .col-md-4.col-6
               figure
                 img(src='@/assets/curso/tema5/img09.svg')
@@ -111,7 +111,7 @@
       .col-lg-10(data-aos="fade-right")
         .row.BG10.justify-content-center.align-items-center.p-4
           .col-9
-            p Rootkits: <span style="color:#BC1445 !important; font-weight:bold;">Dado que los Rootkits, pueden ser  uno de los virus informáticos más peligrosos, lo invitamos a estudiar el anexo-Rootkits.</span>
+            p <em>Rootkits</em>: <span style="color:#BC1445 !important; font-weight:bold;">Dado que los <em>Rootkits</em>, pueden ser  uno de los virus informáticos más peligrosos, lo invitamos a estudiar el anexo-<em>Rootkits</em>.</span>
           .col-2.p-0
             img(src='@/assets/curso/tema5/img13.svg')
     separador

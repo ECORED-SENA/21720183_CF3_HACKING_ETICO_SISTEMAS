@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Vulnerabilidades y Ataques en el Hacking Ético',
+    componenteFormativo:
+      'Vulnerabilidades y Ataques en el <em>Hacking</em> Ético',
     descripcionCurso:
       'La seguridad informática se ha convertido hoy en día en una preocupación para empresas y organizaciones en medio del mundo digital, es por ello que es importante conocer y aplicar diferentes herramientas digitales para ciberseguridad y conocer las vulnerabilidades y ataques a los cuales están expuestos los sistemas y redes y así protegerlos de cibercriminales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
@@ -125,7 +126,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Ataques con virus y malware',
+        titulo: 'Ataques con virus y <em>malware</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -137,7 +138,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'Tipos de virus y malware',
+            titulo: 'Tipos de virus y <em>malware</em>',
             hash: 't_5_2',
           },
           {
@@ -194,7 +195,7 @@ export default {
       link: 'https://blog.infranetworking.com/servidor-ftp/.',
     },
     {
-      referencia: 'Borges, S. (04 de enero de 2019). Servidor web',
+      referencia: 'Borges, S. (04 de enero de 2019). Servidor <em>web</em>',
       link: 'https://blog.infranetworking.com/servidor-web/.',
     },
     {
@@ -342,7 +343,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -350,12 +351,7 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
