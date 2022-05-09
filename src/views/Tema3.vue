@@ -169,7 +169,7 @@
     p.mb-4 Un ataque de inyección de <em>hash</em> permite a un atacante inyectar un <em>hash</em> comprometido en una sesión local y usar el <em>hash</em> para validar los recursos de la red, donde el atacante encuentra y extrae un <em>hash</em> de la cuenta de administración del dominio y usa el <em>hash</em> extraído para buscar en el controlador de dominio.
     figure.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/tema3/img25.svg') 
-    p Con esta técnica, un atacante captura el <em>hash</em> de una contraseña (en contraposición a los caracteres de la contraseña) y luego simplemente la pasa para autenticarse y tener un acceso potencialmente lateral a otros sistemas en red, el actor de la amenaza no necesita desencriptar el hash para obtener una contraseña en texto plano, los ataques PtH explotan el protocolo de autenticación, ya que el hash de las contraseñas permanece estático en cada sesión hasta que la contraseña se rota (cambia de posición). Los atacantes comúnmente obtienen el hash raspando la memoria activa de un sistema y otras técnicas.
+    p Con esta técnica, un atacante captura el <em>hash</em> de una contraseña (en contraposición a los caracteres de la contraseña) y luego simplemente la pasa para autenticarse y tener un acceso potencialmente lateral a otros sistemas en red, el actor de la amenaza no necesita desencriptar el <em>hash</em> para obtener una contraseña en texto plano, los ataques PtH explotan el protocolo de autenticación, ya que el <em>hash</em> de las contraseñas permanece estático en cada sesión hasta que la contraseña se rota (cambia de posición). Los atacantes comúnmente obtienen el <em>hash</em> raspando la memoria activa de un sistema y otras técnicas.
 
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5    
     separador.mb-5
@@ -196,7 +196,7 @@
         img(src='@/assets/curso/tema3/img30.svg')
     .row.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p.mb-0 Se sabe que las computadoras de <em>Windows</em> pueden ser configuradas para estar en un grupo de trabajo o unidas a un dominio. En un grupo de trabajo, cada computadora tiene su propio SAM que contiene información sobre todas sus cuentas locales de usuario y de grupo, las contraseñas asociadas con cada una de estas cuentas se guardan en el SAM; el hash de las contraseñas ofrece cierta medida de seguridad y minimiza los riesgos de un ataque, la autoridad de seguridad local (LSA) valida el intento de inicio de sesión de un usuario verificando sus credenciales con los datos almacenados en el SAM El intento de inicio de sesión de un usuario sólo tiene éxito cuando la contraseña introducida coincide con la contraseña almacenada en el SAM local.
+        p.mb-0 Se sabe que las computadoras de <em>Windows</em> pueden ser configuradas para estar en un grupo de trabajo o unidas a un dominio. En un grupo de trabajo, cada computadora tiene su propio SAM que contiene información sobre todas sus cuentas locales de usuario y de grupo, las contraseñas asociadas con cada una de estas cuentas se guardan en el SAM; el <em>hash</em> de las contraseñas ofrece cierta medida de seguridad y minimiza los riesgos de un ataque, la autoridad de seguridad local (LSA) valida el intento de inicio de sesión de un usuario verificando sus credenciales con los datos almacenados en el SAM El intento de inicio de sesión de un usuario sólo tiene éxito cuando la contraseña introducida coincide con la contraseña almacenada en el SAM local.
         p Revise en el siguiente recurso para conocer cómo se lleva a cabo la autenticación Microsoft SAM.
       .col-lg-5.p-0(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img31.svg')
@@ -227,7 +227,7 @@
             img(src='@/assets/curso/tema3/img35.svg')
       .row.justify-content-center.align-items-center(titulo="5")
         .col-md-7.mb-4.mb-md-0
-          p Residir la base de datos SAM en el registro de <em>Windows</em>.
+          p Residir la base de datos SAM en el registro de <em>hackers</em>.
         .col-md-3
           figure.p-4
             img(src='@/assets/curso/tema3/img36.svg')
@@ -237,7 +237,7 @@
         img(src='@/assets/curso/tema3/img37.svg')
     .row.align-items-center
       .col-lg-5.p-2.mb-5(data-aos="fade-right")
-        p La base de datos SAM es la base de datos de información de cuentas de usuario y de grupo almacenada en un controlador de dominio en una red basada en Microsoft Windows Server.
+        p La base de datos SAM es la base de datos de información de cuentas de usuario y de grupo almacenada en un controlador de dominio en una red basada en Microsoft <em>hackers</em>.
        
       .col-lg-7.mb-5(data-aos="fade-left")
         .cajon.color-primario.px-3.pb-2.pt-4
@@ -247,7 +247,7 @@
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5   
     .row.justify-content-center.mb-5
       .col-lg-5.p-2.mb-5(data-aos="fade-right")
-        p La base de datos SAM ocupa una parte del registro del sistema operativo Windows Server. Todas las cuentas de usuario, las cuentas de grupo y las definiciones de recursos como acciones e impresoras tienen sus principios de seguridad definidos en la base de datos SAM. Debido a que toda la base de datos SAM debe residir en la memoria RAM de un controlador de dominio, no puede exceder de unos 40 MB en Windows NT, lo que equivale a unas 40.000 cuentas de usuario, o 26.000 usuarios y estaciones de trabajo de Windows NT combinadas. 
+        p La base de datos SAM ocupa una parte del registro del sistema operativo <em>hackers</em>. Todas las cuentas de usuario, las cuentas de grupo y las definiciones de recursos como acciones e impresoras tienen sus principios de seguridad definidos en la base de datos SAM. Debido a que toda la base de datos SAM debe residir en la memoria RAM de un controlador de dominio, no puede exceder de unos 40 MB en <em>Windows NT</em>, lo que equivale a unas 40.000 cuentas de usuario, o 26.000 usuarios y estaciones de trabajo de <em>Windows NT</em> combinadas. 
       .col-lg-7(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img38.svg')
       
@@ -284,7 +284,7 @@
                   | SAM utiliza medidas criptográficas para evitar que usuarios no autenticados accedan al sistema. 
                 li.mb-4
                   .lista-candado
-                  | Las contraseñas de los usuarios se almacenan en un formato de hash en una colmena de registro, ya sea como hash LM o como hash NTLM. Este archivo se encuentra en %SystemRoot%/system32/config/SAM y está montado en HKLM/SAM.
+                  | Las contraseñas de los usuarios se almacenan en un formato de <em>hash</em> en una colmena de registro, ya sea como <em>hash</em> LM o como <em>hash</em> NTLM. Este archivo se encuentra en %SystemRoot%/system32/config/SAM y está montado en HKLM/SAM.
             .col-2.p-0
               img(src='@/assets/curso/tema3/img40.svg')
             .col-12

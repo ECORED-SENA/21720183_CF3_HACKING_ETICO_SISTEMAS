@@ -60,7 +60,7 @@
           .row.justify-content-center.align-items-center
             .col-md-8.col-11.mb-4.mb-md-0
               h4 <em>Cookies</em> de rastreo
-              p Estas rastrean las actividades web del usuario, como búsquedas, historial y descargas, con fines de <em>marketing</em>.
+              p Estas rastrean las actividades <em>web</em> del usuario, como búsquedas, historial y descargas, con fines de <em>marketing</em>.
             .col-md-4.col-6
               figure
                 img(src='@/assets/curso/tema5/img07.svg')
@@ -70,7 +70,7 @@
                 img(src='@/assets/curso/tema5/img08.svg')
             .col-md-8.col-11.mb-4.mb-md-0
               h4 Monitores del sistema
-              p Este tipo de <em>spyware</em> puede capturar casi todo lo que hace en su computadora. Los monitores del sistema pueden registrar todas las pulsaciones de teclas, correos electrónicos, diálogos de salas de chat, sitios web visitados y programas ejecutados. Los monitores de sistemas a menudo se disfrazan de programas gratuitos.
+              p Este tipo de <em>spyware</em> puede capturar casi todo lo que hace en su computadora. Los monitores del sistema pueden registrar todas las pulsaciones de teclas, correos electrónicos, diálogos de salas de chat, sitios <em>web</em> visitados y programas ejecutados. Los monitores de sistemas a menudo se disfrazan de programas gratuitos.
           .row.justify-content-center.align-items-center
             .col-md-8.col-11.mb-4.mb-md-0
               h4 <em>Rootkits</em>
@@ -138,7 +138,7 @@
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema5/img24.svg' alt='AvatarTop')
               .tarjeta.BG14
-                p.p-4 <span style="color:#5C379B !important">Sea cauteloso con los correos sospechosos y sitios web.</span>
+                p.p-4 <span style="color:#5C379B !important">Sea cauteloso con los correos sospechosos y sitios <em>web</em>.</span>
           .col-lg-12
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
@@ -162,7 +162,7 @@
               .tarjeta-avatar-b__img
                 img(src='@/assets/curso/tema5/img28.svg' alt='AvatarTop')
               .tarjeta.BG14
-                p.p-4 <span style="color:#5C379B !important">Manténganse alerta a las ventanas emergentes de los sitios web, nunca de clic en ninguna parte de esas ventanas.</span>
+                p.p-4 <span style="color:#5C379B !important">Manténganse alerta a las ventanas emergentes de los sitios <em>web</em>, nunca de clic en ninguna parte de esas ventanas.</span>
           .col-lg-12
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img

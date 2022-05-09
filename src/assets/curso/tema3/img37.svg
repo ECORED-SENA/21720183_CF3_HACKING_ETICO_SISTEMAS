@@ -10,7 +10,7 @@
       <rect id="Rectángulo_37493" data-name="Rectángulo 37493" width="131.6" height="36.458" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_143621" data-name="Grupo 143621" transform="translate(-180 -9822.738)">
+  <g id="Grupo_143598" data-name="Grupo 143598" transform="translate(-180 -9822.738)">
     <g id="Grupo_112917" data-name="Grupo 112917" transform="translate(180 9822.738)">
       <g id="Grupo_112083" data-name="Grupo 112083" transform="translate(0 0)" clip-path="url(#clip-path)">
         <path id="Trazado_169408" data-name="Trazado 169408" d="M15.226,2.239v46.2l548.268.06,17.051-46.27Z" transform="translate(-15.226 9.698)" fill="#7142c1"/>
@@ -29,6 +29,6 @@
         </g>
       </g>
     </g>
-    <text id="_Qué_es_SAM_Security_Account_Manager_Database_" data-name="¿Qué es SAM (Security Account Manager Database)?" transform="translate(233.23 9845.738)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">¿Qué es SAM (Security Account Manager Database)?</tspan></text>
+    <text id="_Qué_es_SAM_Security_Account_Manager_Database_" data-name="¿Qué es SAM (Security Account Manager Database)?" transform="translate(233.23 9845.738)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">¿Qué es SAM</tspan><tspan y="19" xml:space="preserve" font-family="Roboto-BlackItalic, Roboto" font-style="italic"> (Security Account Manager Database)</tspan><tspan y="19">?</tspan></text>
   </g>
 </svg>

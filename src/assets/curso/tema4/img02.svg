@@ -4,7 +4,7 @@
       <rect id="Rectángulo_37493" data-name="Rectángulo 37493" width="125.824" height="36.458" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_143639" data-name="Grupo 143639" transform="translate(-180 -1440.934)">
+  <g id="Grupo_143601" data-name="Grupo 143601" transform="translate(-180 -1440.934)">
     <g id="Grupo_112931" data-name="Grupo 112931" transform="translate(0 -5771.113)">
       <path id="Trazado_182697" data-name="Trazado 182697" d="M15.226,2.239v46.2l197.866.06,6.154-46.27Z" transform="translate(164.774 7217.746)" fill="#7142c1"/>
       <g id="Grupo_112921" data-name="Grupo 112921" transform="translate(-327 -1761.049)">
@@ -19,6 +19,6 @@
         </g>
       </g>
     </g>
-    <text id="El_sniffing_" data-name="El sniffing " transform="translate(224 1461.967)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">El sniffing </tspan></text>
+    <text id="El_sniffing_" data-name="El sniffing " transform="translate(224 1461.967)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">El</tspan><tspan y="19" xml:space="preserve" font-family="Roboto-BlackItalic, Roboto" font-style="italic"> sniffing </tspan></text>
   </g>
 </svg>

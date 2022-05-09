@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-4
       .col-lg-12(data-aos="fade-right")
         .cajon-b.color-primario.p-3.mb-5
-          p Las vulnerabilidades en el <em>software</em>, son una de las principales puertas de entrada para los cibercriminales, pero también, es un vector de ataque, una mala configuración de nuestros servicios, e incluso la exposición de puerto TCP/UDP a Internet sin ningún tipo de filtrado. Los piratas informáticos están buscando constantemente nuevas formas de atacar cualquier ordenador, servidor o red a través de estos fallos de seguridad, por este motivo, los propios ingenieros de las compañías, los investigadores de seguridad y los hackers éticos están constantemente analizando los diferentes programas en busca de fallos de seguridad y reportándose para que se solucione, la herramienta imprescindible para esta tarea con los escáneres de vulnerabilidades.
+          p Las vulnerabilidades en el <em>software</em>, son una de las principales puertas de entrada para los cibercriminales, pero también, es un vector de ataque, una mala configuración de nuestros servicios, e incluso la exposición de puerto TCP/UDP a Internet sin ningún tipo de filtrado. Los piratas informáticos están buscando constantemente nuevas formas de atacar cualquier ordenador, servidor o red a través de estos fallos de seguridad, por este motivo, los propios ingenieros de las compañías, los investigadores de seguridad y los <em>hackers</em> éticos están constantemente analizando los diferentes programas en busca de fallos de seguridad y reportándose para que se solucione, la herramienta imprescindible para esta tarea con los escáneres de vulnerabilidades.
       .col-lg-12.mb-5(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img01.png')
       .col-lg-10.mb-4(data-aos="fade-right")
@@ -101,10 +101,10 @@
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p.mb-2 <em>Nessus</em> es una herramienta de escaneo de seguridad remota, que escanea un ordenador y emite una alerta si descubre alguna vulnerabilidad que los hackers maliciosos podrían utilizar para obtener acceso a cualquier ordenador que se haya conectado a una red, todo esto lo logra ejecutando más de 1200 chequeos en una computadora dada, probando para ver si alguno de estos ataques podría ser usado para irrumpir en la computadora o dañarla de alguna manera.
+        p.mb-2 <em>Nessus</em> es una herramienta de escaneo de seguridad remota, que escanea un ordenador y emite una alerta si descubre alguna vulnerabilidad que los <em>hackers</em> maliciosos podrían utilizar para obtener acceso a cualquier ordenador que se haya conectado a una red, todo esto lo logra ejecutando más de 1200 chequeos en una computadora dada, probando para ver si alguno de estos ataques podría ser usado para irrumpir en la computadora o dañarla de alguna manera.
         .row.BG02.justify-content-center
           .col-11.py-3
-            p Si usted es un administrador a cargo de cualquier computadora (o grupo de computadoras) conectada a Internet, <em>Nessus</em> es una gran herramienta que ayuda a mantener sus dominios libres de las fáciles vulnerabilidades que los hackers y virus comúnmente buscan explotar. 
+            p Si usted es un administrador a cargo de cualquier computadora (o grupo de computadoras) conectada a Internet, <em>Nessus</em> es una gran herramienta que ayuda a mantener sus dominios libres de las fáciles vulnerabilidades que los <em>hackers</em> y virus comúnmente buscan explotar. 
       .col-lg-5.p-0(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img12.png')
 

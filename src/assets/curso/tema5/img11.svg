@@ -4,7 +4,7 @@
       <rect id="Rectángulo_37493" data-name="Rectángulo 37493" width="125.824" height="36.458" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_143642" data-name="Grupo 143642" transform="translate(-180 -4159.377)">
+  <g id="Grupo_143600" data-name="Grupo 143600" transform="translate(-180 -4159.377)">
     <g id="Grupo_112931" data-name="Grupo 112931" transform="translate(0 -3052.67)">
       <path id="Trazado_182697" data-name="Trazado 182697" d="M15.226,2.239v46.2l354.264.06,11.018-46.27Z" transform="translate(164.774 7217.746)" fill="#7142c1"/>
       <g id="Grupo_112921" data-name="Grupo 112921" transform="translate(-172 -1761.049)">
@@ -19,6 +19,6 @@
         </g>
       </g>
     </g>
-    <text id="Propagación_de_Spyware" data-name="Propagación de Spyware" transform="translate(220 4177.629)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="26.83" y="19">Propagación de Spyware</tspan></text>
+    <text id="Propagación_de_Spyware" data-name="Propagación de Spyware" transform="translate(220 4177.629)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="27.573" y="19">Propagación de </tspan><tspan y="19" font-family="Roboto-BlackItalic, Roboto" font-style="italic">Spyware</tspan></text>
   </g>
 </svg>
