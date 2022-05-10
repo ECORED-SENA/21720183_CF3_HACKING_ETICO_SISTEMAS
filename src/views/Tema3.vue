@@ -237,7 +237,7 @@
         img(src='@/assets/curso/tema3/img37.svg')
     .row.align-items-center
       .col-lg-5.p-2.mb-5(data-aos="fade-right")
-        p La base de datos SAM es la base de datos de información de cuentas de usuario y de grupo almacenada en un controlador de dominio en una red basada en Microsoft <em>hackers</em>.
+        p La base de datos SAM es la base de datos de información de cuentas de usuario y de grupo almacenada en un controlador de dominio en una red basada en <em>Microsoft Windows Server</em>.
        
       .col-lg-7.mb-5(data-aos="fade-left")
         .cajon.color-primario.px-3.pb-2.pt-4
