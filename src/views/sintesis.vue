@@ -3,15 +3,17 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .row
-      .col-lg-2.mb-5
-        figure
-          img(src="@/assets/curso/tema5/img21.svg", alt="alt")
-
+    .row.justify-content-center
       .col-lg-12.mb-5
         figure.mb-5
         img(src='@/assets/curso/tema5/img22.svg')
-      
+    .row.justify-content-center 
+      .col-auto
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Síntesis
 
 
 
