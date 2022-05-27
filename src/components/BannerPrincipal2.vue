@@ -4,23 +4,21 @@
     :style="{'background-image': globalData.fondoBannerPrincipal ? `url(${globalData.fondoBannerPrincipal})` : 'none'}"
   )
     .row.banner-principal__row.position-relative.justify-content-center.align-items-center
-      .col-1
-      .col-md-5.col-12.py-5.banner-principal__info.ps-4.ps-sm-5.py-4.py-sm-5
-
+      .col-lg-7.col-xxl-6.py-4.py-sm-5.banner-principal__info.ps-md-5.ps-3
         .banner-principal__componente
-          h1.mb-0(style="font-size: 2.63em" v-html="globalData.componenteFormativo")
+          h1.mb-0(v-html="globalData.componenteFormativo")
         .col-lg-12
           .banner-principal__descripcion
             p.mb-0(v-html="globalData.descripcionCurso")
         .banner-principal__accion
           router-link.boton(:to="{name: iniciarLnk.nombreRuta }")
-            span.me-1 Ver más
+            span.me-1 Iniciar
             i.fas.fa-angle-right
       .col-1
       .col-4.d-none.d-lg-block.px-0.banner-principal__img
         img.w-100(:src="globalData.imagenBannerPrincipal")
         .imagen_flotante_1: img(src="@/assets/curso/bugs.svg")
-      .col-1
+     
     
     //- .imagen_flotante_2: img(src="@/assets/curso/float2.png")
     //- .imagen_flotante_3: img(src="@/assets/curso/float3.png")
