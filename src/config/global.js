@@ -278,7 +278,8 @@ export default {
       link: 'https://www.youtube.com/watch?v=tG1OarXj4DU',
     },
     {
-      texto: 'Departamento UAEM. (2021). Tipos de ataques informáticos ',
+      texto:
+        'Departamento UAEM. (2021). Seguridad Informática. Tipos de ataques informáticos',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-b7NZRM3x_Q',
     },

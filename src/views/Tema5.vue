@@ -115,7 +115,7 @@
           .col-2.p-0
             img(src='@/assets/curso/tema5/img13.svg')
           .col-md-2
-            a.boton.color-acento-contenido.me-3(:href="obtenerLink('/downloads/Anexo_Rootkits.pdf')" target="_blank" type="application/pdf")
+            a.boton.color-acento-contenido.me-3(:href="obtenerLink('/downloads/rootkits.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
           
