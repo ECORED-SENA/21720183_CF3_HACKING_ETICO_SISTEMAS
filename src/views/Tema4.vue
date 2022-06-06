@@ -22,12 +22,12 @@
 
     .row.align-items-center
       .col-lg-3.col-md-6.col-6(data-aos="fade-right") 
-        img(src='@/assets/curso/tema4/img02.svg') 
+        img(src='@/assets/curso/tema4/img02.svg')
       .col-lg-12(data-aos="fade-right")
         p Este es un proceso de monitorizar y capturar todos los paquetes que pasan a través de una red dada usando herramientas de <em>sniffing</em>.
 
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")       
         figure
           .video
@@ -36,21 +36,21 @@
       .col-lg-10.mb-5(data-aos="fade-right")
         .row.BG06.justify-content-center.align-items-center.p-4
           .col-7
-            p Cuando se crearon por primera vez, los  <em>sniffers</em>s eran (y pueden seguir siendo) herramientas muy útiles para que los ingenieros gestionen sus redes, dado que permiten a los administradores ver todo el tráfico de una red, pueden utilizarse para diagnosticar problemas y evaluar el rendimiento. 
+            p Cuando se crearon por primera vez, los  <em>sniffers</em> eran (y pueden seguir siendo) herramientas muy útiles para que los ingenieros gestionen sus redes, dado que permiten a los administradores ver todo el tráfico de una red, pueden utilizarse para diagnosticar problemas y evaluar el rendimiento. 
           .col-4
             img(src='@/assets/curso/tema4/img03.svg')
         
   .container.BGIMG10.px-4.pt-4.pt-md-4.px-md-5 
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img04.svg') 
+        img(src='@/assets/curso/tema4/img04.svg')
       .col-lg-8.mb-4(data-aos="fade-right")
         p.mb-3 En primer lugar, es importante comprender cómo funciona generalmente el tráfico de Internet en una red, en la mayoría de los casos, la computadora solo investigará los paquetes que le han sido dirigidos específicamente. En la metáfora de los "coches que circulan por una carretera", podemos imaginarnos el ordenador como una casa en esa carretera, no inspeccionará todos los coches que pasan por su casa, pero si alguien aparca en su entrada, probablemente abriría la puerta para ver quién es, así es como su ordenador trata la mayoría de los paquetes de datos: ignora los que van por la red a otros destinos mientras inspecciona los paquetes que se le envían.
         .BG09.p-4
           p El <em>software</em> de <em>"sniffing"</em> ajusta la configuración de la red de un ordenador para que "huela" cada paquete - en lugar de solo los que se le envían - y los copia todos para su posterior investigación, en lugar de abrir la puerta sólo cuando alguien viene de visita, el <em>sniffer</em> se pega a la ventana, observando todos los coches mientras pasan.
           p El  <em>sniffer</em> de la ventana puede monitorear obsesivamente cada auto, o puede elegir investigar sólo los camiones, o los autos rojos, o los autos con al menos tres ocupantes, o tal vez solo las motocicletas, en otras palabras, una persona que usa un <em>sniffer</em> en modo no filtrado puede recoger todo el tráfico de la red, o puede configurar el <em>sniffer</em> para filtrar paquetes que contengan un tipo específico de datos.
       .col-lg-4.col-md-5.col-5.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img05.svg') 
+        img(src='@/assets/curso/tema4/img05.svg')
     .row.justify-content-center.mb-5
       .col-lg-10.mb-4(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
@@ -91,9 +91,9 @@
               p La capa de presentación es donde se encuentra el sistema operativo, este sistema operativo podría ser <em>Windows</em>, OS X, un sistema operativo basado en Unix o uno de los muchos otros disponibles donde el usuario humano interactúa con la capa de aplicación descrita anteriormente, la capa de aplicación interactúa con la capa de presentación, esto puede hacerse directamente, o a través de un entorno de ejecución como el <em>Java Runtime Environment</em> (JRE). Su función principal es homogeneizar los formatos de representación de los datos entre equipos de la red Para homogeneizar la representación de datos (textos, sonidos, imágenes, valores numéricos, instrucciones), la Capa de presentación interpreta las estructuras de las informaciones intercambiadas por los procesos de la aplicación y las transforma convenientemente.
           .row(titulo="Capa de aplicación (Capa 7)")
             .col-11.p-4
-              p En la parte superior de la pila de capas del Modelo de Referencia OSI, encuentras la capa de Aplicación que es implementada por las aplicaciones de la red, estas aplicaciones producen los datos, que deben ser transferidos a través de la red, esta capa también sirve como ventana para que los servicios de aplicación accedan a la red y para mostrar la información recibida al usuario, la capa de aplicaciones también se llama capa de escritorio. Ejemplo: Aplicación - Navegadores,  <em>JSkype Messenger</em>, etc.
+              p En la parte superior de la pila de capas del Modelo de Referencia OSI, encuentras la capa de Aplicación que es implementada por las aplicaciones de la red, estas aplicaciones producen los datos, que deben ser transferidos a través de la red, esta capa también sirve como ventana para que los servicios de aplicación accedan a la red y para mostrar la información recibida al usuario, la capa de aplicaciones también se llama capa de escritorio. Ejemplo: Aplicación - Navegadores,  <em>Skype Messenger</em>, etc.
       .col-lg-4.col-md-6.col-6.p-0(data-aos="fade-right")
-        img(src='@/assets/curso/tema4/img07.png')  
+        img(src='@/assets/curso/tema4/img07.png')
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
@@ -121,7 +121,7 @@
       .col-lg-6(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img09.svg')
     p <em><b>Wireshark:</b></em> es un analizador de protocolo de red, o una aplicación que captura paquetes de una conexión de red, como por ejemplo de su ordenador a su oficina en casa o a Internet, paquete es el nombre que se da a una unidad discreta de datos en una red Ethernet típica.
-    p.mb-5 <em>Wireshark</em> es el rastreador de paquetes más utilizado en el mundo. Como cualquier otro rastreador de paquetes, <em>Wireshark</em>hace tres cosas:
+    p.mb-5 <em>Wireshark</em> es el rastreador de paquetes más utilizado en el mundo. Como cualquier otro rastreador de paquetes, <em>Wireshark</em> hace tres cosas:
 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-5(data-aos="fade-right")
@@ -129,7 +129,7 @@
       .col-lg-4.mb-5
         img(src='@/assets/curso/tema4/img11.svg')
       .col-lg-4.mb-5(data-aos="fade-left")
-        img(src='@/assets/curso/tema4/img12.svg') 
+        img(src='@/assets/curso/tema4/img12.svg')
       .col-lg-4.mb-5(data-aos="fade-right")
         h4 Captura de paquetes: 
         p <em>Wireshark</em> escucha una conexión de red en tiempo real y luego capta flujos enteros de tráfico, muy posiblemente decenas de miles de paquetes a la vez.
@@ -153,7 +153,7 @@
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 4.4	Contramedidas
 
-    p.mb-5 A veces usted se centra más en el lado inalámbrico de la red cuando se trata de la seguridad porque el WiFi no tiene barreras físicas. Después de todo, un <em>War driver</em> detectar su SSID y lanzar un ataque mientras está sentado en el estacionamiento, pero en un mundo de amenazas internas, ataques dirigidos desde el exterior, así como <em>hackers</em> que utilizan la ingeniería social para obtener acceso físico a las redes corporativas, la seguridad de la parte cableada de la red también debería ser lo más importante, por lo tanto, presentamos algunas precauciones de seguridad básicas que puede tomar para la parte conectada de la red, tanto si es una pequeña empresa como una gran empresa.
+    p.mb-5 A veces usted se centra más en el lado inalámbrico de la red cuando se trata de la seguridad porque el WiFi no tiene barreras físicas. Después de todo, un <em>War driver</em> detecta su SSID y lanza un ataque mientras está sentado en el estacionamiento, pero en un mundo de amenazas internas, ataques dirigidos desde el exterior, así como <em>hackers</em> que utilizan la ingeniería social para obtener acceso físico a las redes corporativas, la seguridad de la parte cableada de la red también debería ser lo más importante, por lo tanto, presentamos algunas precauciones de seguridad básicas que puede tomar para la parte conectada de la red, tanto si es una pequeña empresa como una gran empresa.
 
   .container.BGIMG07.px-4.pt-4.pt-md-4.px-md-5 
     SlyderA(tipo="b")

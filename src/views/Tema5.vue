@@ -114,6 +114,11 @@
             p <em>Rootkits</em>: <span style="color:#BC1445 !important; font-weight:bold;">Dado que los <em>Rootkits</em>, pueden ser  uno de los virus informáticos más peligrosos, lo invitamos a estudiar el anexo-<em>Rootkits</em>.</span>
           .col-2.p-0
             img(src='@/assets/curso/tema5/img13.svg')
+          .col-md-2
+            a.boton.color-acento-contenido.me-3(:href="obtenerLink('/downloads/Anexo_Rootkits.pdf')" target="_blank" type="application/pdf")
+              span Descargar
+              i.fas.fa-file-download
+          
     separador
     #t_5_3.titulo-segundo.color-acento-contenido
         h2.mb-3 5.3	Protección con antivirus y evasiones
@@ -178,7 +183,7 @@
       .col-lg-3.mb-5(data-aos="fade-right")
         img(src='@/assets/curso/tema5/img17.svg')
       .col-lg-3.mb-5(data-aos="fade-left")
-        img(src='@/assets/curso/tema5/img18.svg')   
+        img(src='@/assets/curso/tema5/img18.svg')
       .col-lg-3.mb-5(data-aos="fade-left")
         img(src='@/assets/curso/tema5/img19.svg')
 
@@ -188,7 +193,7 @@
           .col-8
             p El <em>spyware</em> puede ser dañino, pero puede ser eliminado y prevenido si se es cauteloso y se utiliza una herramienta antivirus, si has sido infectado con <em>spyware</em>, tome medidas para eliminarlo, sea proactivo cambiando sus contraseñas y notificando a su banco para que esté atento a las actividades fraudulentas.
           .col-3
-            img(src='@/assets/curso/tema5/img20.svg') 
+            img(src='@/assets/curso/tema5/img20.svg')
 
 
 </template>

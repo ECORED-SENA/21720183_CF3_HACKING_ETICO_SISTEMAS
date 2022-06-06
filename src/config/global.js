@@ -153,7 +153,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -202,7 +202,7 @@ export default {
       referencia:
         'Caballero Quezada, Alonso Eduardo. (17 de noviembre de 2015). Introducción a OSSTMM (Open Source Security Testing Methodology Manual).',
       link:
-        'https://www.incibe.es/protege-tu-empresa/blog/amenaza-vs-vulnerabilidad-sabes-se-diferencian',
+        'http://www.reydes.com/d/?q=Introduccion_a_OSSTMM_Open_Source_Security_Testing_Methodology_Manual',
     },
     {
       referencia:
@@ -219,7 +219,7 @@ export default {
       referencia:
         'Gaviria Valencia, R. A. (2015). Guía práctica para pruebas de pentest basada en la metodología OSSTMM V2.1 y la guía OWASP V3.0.',
       link:
-        'http://repositorio.unilibrepereira.edu.co:8080/pereira/bitstream/handle/123456789/622/GUÍA%20PRÁCTICA%20PARA%20PRUEBAS.pdf?sequence=1.',
+        'https://repository.unilibre.edu.co/bitstream/handle/10901/17296/GU%c3%8dA%20PR%c3%81CTICA%20PARA%20PRUEBAS.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
@@ -278,8 +278,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=tG1OarXj4DU',
     },
     {
-      texto:
-        'Departamento UAEM. (2021). Tipos de ataques informáticos [Vídeo]. YouTube.',
+      texto: 'Departamento UAEM. (2021). Tipos de ataques informáticos ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=-b7NZRM3x_Q',
     },

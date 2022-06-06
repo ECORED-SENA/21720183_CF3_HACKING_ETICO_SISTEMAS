@@ -8,11 +8,11 @@
       h1 Ataques a dispositivos
   .container.BGIMG06.px-4.pt-4.pt-md-4.px-md-5 
     figure.p-3.mb-2(data-aos="fade-right")
-      img(src='@/assets/curso/tema3/img02.png') 
+      img(src='@/assets/curso/tema3/img02.png')
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
-        p En los últimos tiempos, donde el mundo digital se ha acrecentado de manera exponencial, los ataques a dispositivos son cada vez más frecuentes, la tendencia es que tanto la adquisición como su uso de duplique en poco tiempo, es por ello que los ciberdelincuentes aprovechan esto para poder realizar ataques de diferente índole, es por ello que es perentorio conocer dentro del <em>hacking</em> ético las diferentes formas de ataques que se pueden realizar para poder salvaguardar su información.
+        p En los últimos tiempos, donde el mundo digital se ha acrecentado de manera exponencial, los ataques a dispositivos son cada vez más frecuentes, la tendencia es que tanto la adquisición como su uso se duplique en poco tiempo, es por ello que los ciberdelincuentes aprovechan esto para poder realizar ataques de diferente índole, es por ello que es perentorio conocer dentro del <em>hacking</em> ético las diferentes formas de ataques que se pueden realizar para poder salvaguardar su información.
     separador 
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2.mb-3 3.1	Conceptos y tipo de ataques
@@ -84,7 +84,7 @@
         LineaTiempoD.color-acento-botones
           p.mb-5.text-small(numero="1" titulo="Ataques simples de fuerza bruta") Los ciberdelincuentes intentan adivinar lógicamente sus credenciales, sin ayuda de herramientas de <em>software</em> u otros medios, estos pueden revelar contraseñas y PINs extremadamente simples. Por ejemplo, una contraseña que se establece como "SENA12345".
           
-          p.text-small(numero="2" titulo="Ataques de diccionario") Es un ataque estándar, un ciberdelincuente elige un objetivo y ejecuta posibles contraseñas contra ese nombre de usuario (como lo vimos en anteriormente), estos son conocidos como ataques de diccionario, los ataques de diccionario son la herramienta más básica en los ataques de fuerza bruta, aunque no son necesariamente ataques de fuerza bruta en sí mismos, a menudo se utilizan como un componente importante para descifrar contraseñas; algunos ciberdelincuentes recorren los diccionarios completos y aumentan las palabras con caracteres y números especiales o utilizan diccionarios especiales de palabras, pero este tipo de ataque secuencial es engorroso.
+          p.text-small(numero="2" titulo="Ataques de diccionario") Es un ataque estándar, un ciberdelincuente elige un objetivo y ejecuta posibles contraseñas contra ese nombre de usuario (como lo vimos anteriormente), estos son conocidos como ataques de diccionario, los ataques de diccionario son la herramienta más básica en los ataques de fuerza bruta, aunque no son necesariamente ataques de fuerza bruta en sí mismos, a menudo se utilizan como un componente importante para descifrar contraseñas; algunos ciberdelincuentes recorren los diccionarios completos y aumentan las palabras con caracteres y números especiales o utilizan diccionarios especiales de palabras, pero este tipo de ataque secuencial es engorroso.
           
           p.mb-5.text-small(numero="3" titulo="Ataques de fuerza bruta híbridos") Estos ciberdelincuentes mezclan medios externos con sus conjeturas lógicas para intentar un allanamiento, un ataque híbrido suele mezclar los ataques de diccionario y de fuerza bruta, estos ataques se utilizan para descifrar contraseñas compuestas que mezclan palabras comunes con caracteres aleatorios. Un ejemplo de ataque de fuerza bruta de esta naturaleza incluiría contraseñas como Sena1993 o SeNa1234.
           
@@ -92,7 +92,7 @@
           
           p.mb-5.text-small(numero="5" titulo="Relleno de credenciales") Si un ciberdelincuente tiene una combinación de nombre de usuario y contraseña que funciona para un sitio <em>web</em>, también lo intentará en muchos otros, como se sabe que los usuarios reutilizan la información de inicio de sesión en muchos sitios <em>web</em>, son el objetivo exclusivo de un ataque como este.
       .col-lg-3.col-md-6.col-6(data-aos="fade-left")
-        img(src='@/assets/curso/tema3/img12.svg')        
+        img(src='@/assets/curso/tema3/img12.svg')
 
     .row.align-items-center.mb-4
       .col-lg-3.col-md-6.col-6.p-0(data-aos="fade-right")
@@ -104,10 +104,9 @@
       .col-lg-10.mb-4(data-aos="fade-right")
         figure
           .video 
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/RIkWiIpr5Lo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/cCxnzKy-hLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .col-lg-12(data-aos="fade-right")
         p Existen malas prácticas de administración que facilitan mucho el trabajo a la hora de intentar acceder a un sistema Las contraseñas por defecto, son las contraseñas suministradas por los fabricantes cuando instalan un dispositivo o un servicio y que muchas veces los administradores de TI olvidan cambiar. Existen herramientas en línea que pueden utilizarse para buscar las contraseñas por defecto las cuales le pueden servir para realizar esta práctica:
-    
     .row.justify-content-center
       .col-lg-4.p-3.mb-4(data-aos="fade-right")
         <a href="https://cirt.net/passwords" target="_blank"><img src='@/assets/curso/tema3/img13.svg'/></a>
@@ -168,7 +167,7 @@
         img(src='@/assets/curso/tema3/img59.svg')
     p.mb-4 Un ataque de inyección de <em>hash</em> permite a un atacante inyectar un <em>hash</em> comprometido en una sesión local y usar el <em>hash</em> para validar los recursos de la red, donde el atacante encuentra y extrae un <em>hash</em> de la cuenta de administración del dominio y usa el <em>hash</em> extraído para buscar en el controlador de dominio.
     figure.mb-4(data-aos="fade-right")
-      img(src='@/assets/curso/tema3/img25.svg') 
+      img(src='@/assets/curso/tema3/img25.svg')
     p Con esta técnica, un atacante captura el <em>hash</em> de una contraseña (en contraposición a los caracteres de la contraseña) y luego simplemente la pasa para autenticarse y tener un acceso potencialmente lateral a otros sistemas en red, el actor de la amenaza no necesita desencriptar el <em>hash</em> para obtener una contraseña en texto plano, los ataques PtH explotan el protocolo de autenticación, ya que el <em>hash</em> de las contraseñas permanece estático en cada sesión hasta que la contraseña se rota (cambia de posición). Los atacantes comúnmente obtienen el <em>hash</em> raspando la memoria activa de un sistema y otras técnicas.
 
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5    
@@ -293,10 +292,10 @@
   .container.BGIMG10.px-4.pt-4.pt-md-4.px-md-5  
     .row.align-items-center.mb-4
       .col-lg-4.col-md-8.col-8(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img41.svg')   
+        img(src='@/assets/curso/tema3/img41.svg')
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-5.mb-5(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img42.svg') 
+        img(src='@/assets/curso/tema3/img42.svg')
       .col-lg-7.mb-5(data-aos="fade-left")
         p NTLM consiste en una serie de protocolos de autenticación del desarrollador de <em>software</em> Microsoft. Al principio, solo se utilizaba como protocolo propietario, aunque ahora la autenticación NTLM (en inglés, NTLM authentication) también está disponible para otros sistemas además de <em>Windows</em>. NT LAN Manager permite que diferentes ordenadores y servidores se verifiquen entre sí. Una de las prioridades de la mayoría de las redes es evitar el acceso de participantes no autorizados, por lo que deben implementar un procedimiento de verificación: el cliente solo puede entrar en la red o utilizar sus servicios si ha sido autorizado.
         p El protocolo NTLM estipula que el cliente se autentique con un nombre de usuario y la contraseña correspondiente. Para ello, se genera un intercambio entre el dispositivo del usuario y un servidor. Este último conoce los datos de inicio de sesión, por lo que puede comprobar la solicitud de acceso y, a continuación, permitirlo.
@@ -305,8 +304,7 @@
           h5 Figura 4
           p.mb-0 Protocolo NTLM
     figure.p-4(data-aos="fade-right")
-      img(src='@/assets/curso/tema3/img43.svg') 
-
+      img(src='@/assets/curso/tema3/img43.svg')
   .container.BG13.px-4.pt-4.pt-md-4.px-md-5    
     .row.align-items-center.mb-5
       .col-lg-10.BG08.p-2.mb-3(data-aos="fade-right")
@@ -314,8 +312,7 @@
           .col-9
             p La autenticación NTLM es una familia de protocolos de autenticación que se engloban en el Msv 1 0 dll de <em>Windows</em> Los protocolos de autenticación NTLM incluyen LAN Manager versión 1 y 2 y NTLM versión 1 y 2 Los protocolos de autenticación NTLM autentican a los usuarios y a las computadoras sobre la base de un mecanismo de desafío/respuesta que demuestra a un servidor o a un controlador de dominio que un usuario conoce la contraseña asociada a una cuenta Cuando se utiliza el protocolo NTLM, un servidor de recursos debe realizar una de las siguientes acciones para verificar la identidad de una computadora o usuario siempre que se necesite un nuevo token de acceso:
       .col-lg-2.col-md-4.col-4(data-aos="fade-right")
-        img.img04(src='@/assets/curso/tema3/img44.svg') 
-    .row.mb-4
+        img.img04(src='@/assets/curso/tema3/img44.svg')
       .col-lg-6.mb-2(data-aos="fade-right")
         .tarjeta-numerada.color-primario.px-5.py-3
           .tarjeta-numerada__numero
@@ -336,7 +333,7 @@
               img(src='@/assets/curso/tema3/img46.svg')
     .row.align-items-center.mb-4
       .col-lg-5(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img47.svg')      
+        img(src='@/assets/curso/tema3/img47.svg')
     .row.align-items-center.mb-4
       .col-lg-6
         .row  

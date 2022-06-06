@@ -40,7 +40,7 @@
             .col-9.p-4.py-5
               h5.mb-0 Escalamiento de privilegios horizontal
               p.mb-0 El término escalada de privilegios horizontales se aplica a todas las situaciones en que un atacante actúa como un usuario específico y obtiene acceso a los recursos pertenecientes a otro usuario con un nivel de acceso similar. Por ejemplo, si un atacante se hace pasar por un usuario y obtiene acceso no autorizado a su cuenta bancaria, éste es un ejemplo de escalada horizontal de privilegios.
-              p Muchas vulnerabilidades de la <em>web</em> pueden dar lugar a una escalada horizontal de privilegios, por ejemplo, los ataques de <em>Cross Site Scripting</em> (pueden permitir al atacante robar las <em>cookies</em> de sesión del usuario para acceder a su cuenta de usuario Los ataques CSRF también son ejemplos de escalada de privilegios horizontales.
+              p Muchas vulnerabilidades de la <em>web</em> pueden dar lugar a una escalada horizontal de privilegios, por ejemplo, los ataques de <em>Cross Site Scripting</em> (pueden permitir al atacante robar las <em>cookies</em> de sesión del usuario para acceder a su cuenta de usuario). Los ataques CSRF también son ejemplos de escalada de privilegios horizontales.
             .col-2.p-0
               img(src='@/assets/curso/tema2/img07.svg')
             .col-12
@@ -67,7 +67,7 @@
       #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2.mb-3 2.2	Contramedidas
 
-      p.mb-5 Las vulnerabilidades de la escalada de privilegios pueden surgir por diferentes razones, como lo puede revisar en la siguiente figura.
+      p Las vulnerabilidades de la escalada de privilegios pueden surgir por diferentes razones, como lo puede revisar en la siguiente figura.
   .container.BG12.p-4.p-md-5
     .row.justify-content-center
       .col-lg-10.mb-4.p-2(data-aos="fade-right")
@@ -76,8 +76,7 @@
           p.mb-0 Contramedidas
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img10.svg')    
-      .col-lg-10.mb-5(data-aos="fade-right")
+        img(src='@/assets/curso/tema2/img10.svg').mb-5
         .cajon.color-primario
           .row.justify-content-center.align-items-center.p-2
             .col-9
